@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.bg-image-container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    height: 100vh;
+    background-size: cover;
+    padding-left: 60px;
+    padding-top: 40px;
+}
+
+.main-heading {
+    color: #020402;
+
+
+
+
+}
+
+.navbar {
+    background-color: #ffffff;
+}
+
+.button {
+    background-color: #32AA27;
+    color: #ffffff;
+    height: 60px;
+    width: 300px;
+    font-family: Poppins;
+    border-radius: 10px;
+
+
+}
+
+.para {
+    color: #3BAE30;
+    font-family: Poppins;
+    padding-top: 20px;
+    margin: 30px;
+    ;
+}
+
+.heading {
+    color: #020402;
+    font-family: Poppins;
+    margin: 30px;
+}
+
+.para2 {
+    color: #808080;
+    font-family: Poppins;
+    margin: 30px;
+
+}
+
+.Explore-section {
+    background-color: #EEF1EF;
+
+}
+
+.heading1 {
+    font-family: Poppins;
+}
+
+.para2 {
+    font-family: Poppins;
+    color: #808080;
+
+}
+
+.button1 {
+    font-family: Poppins;
+}
+
+@media (orientation:landscape) and (min-width:768px) {
+    .navbar-nav {
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-end;
+    }
+
+    .card {
+        display: flex;
+        flex-direction: row;
+    }
+
+
+}

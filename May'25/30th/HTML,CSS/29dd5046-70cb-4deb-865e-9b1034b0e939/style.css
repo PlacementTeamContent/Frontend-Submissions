@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.img1 {
+    height: 60vh;
+    width: 100vw;
+}
+
+.head {
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px;
+    font-family: Poppins;
+    color: #3BAE30;
+}
+
+.sent {
+    padding: 10px;
+    font-size: 25px;
+}
+
+.para {
+    padding: 10px;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.img2 {
+    height: 60vh;
+    width: 100vw;
+}
+
+.serv {
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px;
+    font-family: Poppins;
+    color: #3BAE30;
+}
+
+.para2 {
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.img3 {
+    height: 45vh;
+    width: 100vw;
+}
+
+.teeth {
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #3BAE30;
+}
+
+.para3 {
+    padding: 10px;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.btn {
+    text-align: left;
+}
+
+. {
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #3BAE30;
+}
+
+.para3 {
+    padding: 10px;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.btn {
+    text-align: left;
+}

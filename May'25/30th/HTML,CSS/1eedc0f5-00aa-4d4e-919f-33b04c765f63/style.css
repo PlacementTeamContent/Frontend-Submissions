@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.nav-head {
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.bg-home {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg ');
+    background-size: cover;
+    padding: 16%;
+    font-size: 159%;
+}
+
+.view-services-btn {
+    background-color: #3BAE30;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 0;
+    padding: 15px;
+    font-size: 15px;
+}
+
+.section-II {
+    background-color: #ffffff;
+    padding: 130px;
+}
+
+.IInd-page-img {
+    height: 250px;
+    width: 250px;
+}
+
+.II-img {
+    margin: 100px;
+}
+
+.txt-green {
+    color: #32AA27;
+}
+
+.services-page {
+    background-color: #EEF1EF;
+    padding: 130px;
+}

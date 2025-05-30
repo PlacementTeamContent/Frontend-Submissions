@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.container {
+    text-align: center;
+
+}
+
+.one {
+    background-color: #32AA27;
+    border-color: #32AA27;
+    color: #EEF1EF;
+}
+
+.container-1 {
+    color: #3BAE30;
+}
+
+.card {
+    background-color: #EEF1EF;
+}
+
+.container-2 {
+    background-color: #162415;
+}

@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+#navbar_heading {
+    font-family: "poppins";
+
+}
+
+#home_head {
+    color: #3BAE30;
+}
+
+.navbar-nav {
+    padding-left: 80%;
+    font-family: "poppins";
+}
+
+.carousel_des {
+    font-family: "poppins";
+    padding-left: 60px;
+    padding-top: 20px;
+}
+
+.carousel_head {
+    margin-top: 100px;
+    font-weight: bold;
+}
+
+.btn {
+    margin-left: 120px;
+    padding: 10px;
+    background-color: #3BAE30;
+    border: solid 0px;
+    border-radius: 0px;
+    font-family: "poppins";
+    color: white;
+    font-weight: 600;
+}
+
+.carousel_background {
+    background-size: cover;
+    height: 400px;
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+
+}
+
+#matter_heading {
+    font-family: "poppins";
+    color: #32AA27;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#matter_subheading {
+    font-family: "poppins";
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+#matter_description {
+    font-family: "poppins";
+    color: black;
+    margin-bottom: 30px;
+}
+
+.matter_container {
+    margin-bottom: 180px;
+}
+
+
+.card {
+
+    background-color: #EEF1EF;
+    border-radius: 0px;
+    padding: 30px;
+}
+
+.cards_image {
+    margin-top: 50px;
+    background-size: cover;
+}
+
+#cards_heading {
+    font-family: "poppins";
+    color: #32AA27;
+    font-weight: bold;
+}
+
+#cards_subheading {
+    font-family: "poppins";
+    color: black;
+    font-weight: bold;
+}
+
+#cards_image_heading {
+    font-family: "poppins";
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#cards_image_subheading {
+    font-family: "poppins";
+    color: black;
+}
+
+#cards_btn {
+    border: solid 2px;
+    border-radius: 0px;
+    width: 150px;
+    padding: 10px;
+    font-family: "poppins";
+    font-weight: bold;
+}

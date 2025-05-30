@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navhead {
+    font-weight: bold;
+    padding-left: 40px;
+}
+
+.navapara {
+    font-size: 24px;
+}
+
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nav-para02 {
+    color: #32AA27;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.bg-container01 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg");
+    background-size: cover;
+    height: 90vh;
+}
+
+.container01 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    padding-top: 100px;
+    padding-right: 140px;
+}
+
+.heading {
+    color: #020402;
+    font-size: 44px;
+    font-weight: bold;
+}
+
+.para {
+    color: #020402;
+    font-size: 18px;
+}
+
+.btn-guna {
+    background-color: #3BAE30;
+    color: #ffffff;
+
+    border-color: #3BAE30;
+}
+
+.bg-container02 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 80vh;
+    align-items: center;
+}
+
+.img-container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/about-dental.jpeg");
+    background-size: cover;
+    height: 50vh;
+    width: 50vw;
+}
+
+.para-head01 {
+    color: #162415;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.para-head {
+    color: #3BAE30;
+}
+
+.bg-container03 {
+    background-color: #808080;
+    height: 100vh;
+}
+
+.container03 {
+    background-color: #ffffff;
+    width: 100vw;
+
+    .img-ser {
+        height: 30vh;
+    }
+
+    .gtn-img {
+        background-color: transparent;
+        color: black;
+    }

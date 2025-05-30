@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg');
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.nurture-box {
+
+    margin: 150px;
+}
+
+.nurture {
+    font-family: Poppins;
+    font-weight: bold;
+    color: #0201402;
+}
+
+.nurture-para {
+    font-family: Poppins;
+    font-weight: bold;
+    color: #0201402;
+}
+
+.nurturebutton {
+    font-family: Poppins;
+    font-weight: bold;
+
+}
+
+.remaining {
+    background-color: white;
+}
+
+.passion {
+    padding: 20px;
+}
+
+.passion-for-plants {
+    color: #32AA27;
+    font-weight: bold;
+    font-family: Poppins;
+}
+
+.cultivating {
+    color: #0201402;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.cultivate-para {
+    font-family: Poppins;
+    color: #0201402;
+}
+
+.cultivate-image {
+    height: 500px;
+    width: 500px;
+
+}
+
+.expert-image {
+    height: 400px;
+    width: 400px;
+    margin: 5px;
+}
+
+.expert {
+    font-family: Poppins;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.design-head {
+    font-weight: bold;
+    color: #0201402;
+}
+
+.design-button {
+    height: 40px;
+    width: 130px;
+
+}
+
+.foot {
+    background-color: #162415;
+    padding: 20px;
+    color: white;
+    font-family: Poppins;
+    font-weight: bold;
+
+}
+
+.expert-box {
+    padding: 20px;
+    background-color: #EEF1EF;
+}
+
+.seperate {
+    font-family: Georgia;
+    text-decoration: underline;
+}
+
+
+@media screen and (min-width: 992px) {
+
+    body {
+        background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg');
+        height: 100vh;
+        background-size: cover;
+
+    }
+
+    .nurture-box {
+
+        margin: 150px;
+    }
+
+    .nurture {
+        font-family: Poppins;
+        font-weight: bold;
+        color: #0201402;
+    }
+
+    .nurture-para {
+        font-family: Poppins;
+        font-weight: bold;
+        color: #0201402;
+    }
+
+    .nurturebutton {
+        font-family: Poppins;
+        font-weight: bold;
+
+    }
+
+    .remaining {
+        background-color: white;
+    }
+
+    .passion {
+        padding: 20px;
+        display: flex;
+        flex: row;
+        margin-top: 15px;
+    }
+
+    .passion-for-plants {
+        color: #32AA27;
+        font-weight: bold;
+        font-family: Poppins;
+    }
+
+    .cultivating {
+        color: #0201402;
+        font-family: Poppins;
+        font-weight: bold;
+    }
+
+    .cultivate-para {
+        font-family: Poppins;
+        color: #0201402;
+    }
+
+    .cultivate-image {
+        height: 500px;
+        width: 500px;
+
+    }
+
+    .expert-image {
+        height: 400px;
+        width: 400px;
+        margin: 5px;
+    }
+
+    .expert {
+        font-family: Poppins;
+        padding: 10px;
+        margin-bottom: 10px;
+        display: flex;
+        flex-row
+    }
+
+    .design-head {
+        font-weight: bold;
+        color: #0201402;
+    }
+
+    .design-button {
+        height: 40px;
+        width: 130px;
+
+    }
+
+    .foot {
+        background-color: #162415;
+        padding: 20px;
+        color: white;
+        font-family: Poppins;
+        font-weight: bold;
+        display: flex;
+        flex: between;
+    }
+
+    .expert-box {
+        padding: 20px;
+        background-color: #EEF1EF;
+    }
+
+    .seperate {
+        font-family: Georgia;
+        text-decoration: underline;
+    }
+
+
+
+}

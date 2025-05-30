@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar-brand {
+    font-weight: bold;
+    color: black;
+    padding-left: 30px;
+    font-family: "Poppins";
+}
+
+.navbar-nav {
+    padding-right: 30px;
+
+}
+
+.nav-link {
+    padding: 2px;
+    color: black;
+}
+
+#yo {
+    text-decoration: underline;
+    text-decoration-color: #32AA27;
+    color: #32AA27;
+}
+
+.navbar {
+    background-color: #FFFFFF;
+    margin: 10px;
+}
+
+
+.firstPage {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg');
+    height: 70vh;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.details {
+    font-family: "Poppins";
+
+    margin-left: 20vw;
+}
+
+.headingFirst {
+    font-family: "Poppins";
+    font-weight: bold;
+}
+
+.buttonFirst {
+    background-color: #3BAE30;
+    padding: 10px;
+    color: white;
+}
+
+.secondPage {
+    padding: 50px;
+}
+
+.textPartSec {
+    font-family: "Poppins";
+}
+
+.image {
+    height: 360px;
+}
+
+.subdiv1 {
+    padding: 20px;
+}
+
+.subdiv2 {
+    padding: 20px;
+}
+
+.topone {
+    color: #32AA27;
+    font-family: "Poppins";
+}
+
+.lowerone {
+    color: #32AA27;
+    font-family: "Poppins";
+}
+
+.heading2 {
+    font-family: "Poppins";
+    font-weight: 600;
+}
+
+.footer {
+    background-color: #162415;
+    height: 10vh;
+    padding: 30px;
+}
+
+.headingFooter {
+    color: white;
+    font-size: 10px;
+    font-family: "Poppins";
+}
+
+.paraFooter {
+    color: white;
+    font-size: 10px;
+    font-family: "Poppins";
+}
+
+.thirdPage {
+    background-color: #EEF1Ef;
+}
+
+.

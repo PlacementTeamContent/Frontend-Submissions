@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.digging-img{
+    width:100vw;
+    height:70vh;
+}
+.page1-header{
+ color:#162415;
+ font-size:30px;
+ font-style:poppins;
+ font-weight:bold;
+}
+.page1-para{
+ color:#162415;
+ font-size:15px;
+ font-style:poppins;
+}
+.page1-btn{
+    color:#EEF1EF;
+    background-color:#32AA27;
+    border-width:0px;
+    border-radius:5px;
+}
+.page2-para1{
+   color:#32AA27; 
+   font-size:15px;
+   font-weight:500;
+}
+.page2header{
+    color:#162415;
+    font-size:25px;
+    font-weight:700;
+}
+.meeting-img{
+    height:50vh;
+    width:50vw;
+}
+.page2-para{
+    color:#808080;
+    font-size:12px;
+    font-weight:400;
+}

@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar-brand {
+    font-family: "Poppins";
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+#navlin2,
+#navlin3 {
+    color: black;
+    font-family: "Poppins";
+}
+
+#navlin1 {
+    text-decoration: underline green;
+    color: green;
+    font-family: "Poppins";
+}
+
+.bg-container {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg');
+    background-size: cover;
+    height: 100vh;
+
+}
+
+h1 {
+    font-family: "Poppins";
+    font-weight: bold;
+}
+
+.bg-container3 {
+    background-color: #EEF1EF;
+    padding: 15px;
+}
+
+p {
+    font-family: "Poppins";
+}
+
+.mainpg-btn {
+    background-color: #32AA27;
+    border: none;
+    padding: 8px;
+    color: white;
+    font-weight: bold;
+}
+
+.mainpage-con {
+    padding: 18px;
+}
+
+.servicep-paraup {
+    color: #3BAE30;
+    font-weight: bold;
+}
+
+.bg-container2 {
+    padding: 10px;
+}
+
+.image1 {
+    height: 320px;
+}
+.card{
+    background-color: white;
+    padding: 7px;
+    margin: 5px;
+}
+.card-button{
+    background-color:white ;
+    font-weight: bold;
+    border-color: black;
+    border-width: 3px;
+}
+.bg-container5{
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}

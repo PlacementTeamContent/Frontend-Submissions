@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.first{
+    color:#32aa27;
+    font-family:poppins ;
+    font-size:25px;
+}
+.second{
+    color:#020402;
+    font-family:poppins ;
+    font-size:25px;
+}
+.third{
+    font-family:poppins ; 
+}
+.button{
+     color:#020402;
+    font-family:poppins ;
+    font-size:25px;
+    ;
+}
+.fifth{
+    color:#020402;
+    font-family:poppins ;
+    font-size:25px;
+}

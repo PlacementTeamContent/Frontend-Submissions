@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar-brand{color:#020402;
+/* font-family: bold; */
+    font-weight: 600;
+}
+.firstpart{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+    background-size: cover;
+    height:50vh;
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+.butn1{
+    background-color: #32AA27;
+   border-color: #32AA27 ;
+   color:white;
+}
+.hgreen{
+    color:#3BAE30;
+}
+.second{
+    display:flex;
+    flex-direction: row;
+    gap:20px;
+    margin:50px;
+}
+.third{
+    background-color:#EEF1EF ;
+}
+.eco{
+    align-content: center;
+}
+.btn2{
+    border-color:black ;
+    background-color: #EEF1EF;
+    border-width: 3px;
+    width:130px;
+}
+.inside{
+    display:flex;
+    flex-direction: row;
+    margin:30px;
+}
+.insidesecond{
+    display:flex;
+    flex-direction: row;
+    margin:30px;
+}
+.upmug{
+    margin-bottom: 20px;
+}
+.footer{
+    background-color: #162415;
+    width:100%;
+    height:100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.fooh{
+    color:white;
+}
+.Discover{
+    margin:20px;
+}
+
+@media(max-width:768px){
+    .second{
+        display: flex;
+        flex-direction: column;
+    }
+    .imgshirt{
+        height:250px;
+        width:250px;
+    }
+    
+}
+@media(min-width:768px){
+    .bagimg{
+        height: 400px;
+        width:400px;
+        margin-left:10px;
+    }
+    
+}
+
+@media(min-width:768px){
+    .cupimg{
+        height: 400px;
+        width:400px;
+        margin-left:10px;
+    }
+    .upmug{
+        align-content: center;
+    }
+    
+}
+@media(max-width:768px){
+    .inside{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    
+}
+@media(max-width:768px){
+   .insidesecond{
+        display: flex;
+        flex-direction: column;
+    }
+    .upmug{
+        order: 2;
+    }
+    .mug{
+        order:1;
+        
+    }
+    
+}

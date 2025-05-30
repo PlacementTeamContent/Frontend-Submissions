@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.bg-container {
+    font-family: Poppins;
+}
+
+.back-image {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    background-size: cover;
+    height: 50vh;
+}
+
+.image-heading {
+    font-size: 20px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.button-main {
+    background-color: #32aa27;
+    border: 0px;
+    margin-top: 10px;
+    margin-left: 15px;
+    color: white;
+    padding: 9px;
+    font-size: 15px;
+    width: 150px;
+}
+
+.first-heading {
+    color: #3bae30;
+    font-size: 15px;
+    font-family: Poppins;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.first-para {
+    font-family: Poppins;
+    margin-top: 2px;
+    margin-left: 25px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.second-para {
+    margin-left: 25px;
+    margin-top: 1px;
+}
+
+.sub-image {
+    height: 280px;
+    margin: 40px;
+}
+
+.secound-page {
+    background-color: #eef1ef;
+}
+
+.secound-heading {
+    color: #3bae30;
+    font-size: 15px;
+    font-family: Poppins;
+
+    padding-top: 20px;
+    margin-left: 25px;
+}
+
+.third-para {
+    font-family: Poppins;
+    margin-top: 2px;
+    margin-left: 25px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.sub-image2 {
+    height: 280px;
+    margin: 40px;
+    margin-bottom: 0px;
+}
+
+.back-heading {
+    font-family: Poppins;
+    margin-top: 5px;
+    margin-left: 39px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.back-para {
+    font-family: Poppins;
+    margin-top: 2px;
+    margin-left: 39px;
+}
+
+.back-button {
+    border-color: #162415;
+    margin-left: 39px;
+
+}
+
+.back-button2 {
+    border-color: #162415;
+    margin-left: 39px;
+    margin-bottom: 90px;
+
+}
+
+.content-section {
+    background-color: black;
+
+    height: 180px;
+}
+
+.content-hrading {
+    color: white;
+    font-family: Poppins;
+    padding-top: 20px;
+    margin-left: 39px;
+    font-size: 25px;
+}
+
+.content-para {
+    color: white;
+    font-family: Poppins;
+    margin-left: 39px;
+}
+
+
+@media screen and (min-width:922px) ({
+    .image-heading {
+    font-size: 90px;
+    padding-top: 15px;
+    padding-left: 15px;
+   }
+
+   .button-main {
+    background-color: #32aa27;
+    border: 0px;
+    margin-top: 10px;
+    margin-left: 15px;
+    color: white;
+    padding: 9px;
+    font-size: 15px;
+    width: 150px;
+   }
+}

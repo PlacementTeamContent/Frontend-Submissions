@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.main-div{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+    height:60vh;
+    width:100%;
+    background-size:cover;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left:120px;
+    
+}
+.main-div-heading{
+    font-family:"Roboto";
+    font-weight:bold;
+    
+}
+.main-div-para{
+    font-family:"Roboto";
+    font-weight:bold;
+}
+.main-div-button{
+    height:40px;
+    width:140px;
+    background-color:#32AA27;
+    color:#ffffff;
+    border-radius:10px;
+    border-width:0px;
+}
+.card-1{
+    background-color:#ffffff;
+    padding:100px;
+    display: flex;
+}
+.img-size{
+    height:60vh;
+    width:240px;
+}
+.card-1-p-1{
+    color:#32AA27;
+    font-family:"Roboto";
+    font-weight:bold;
+}
+.card-2{
+    background-color:#EEF1EF;
+}
+.card-2-img{
+    height:50vh;
+    width:55vw;
+   
+}
+.card-2-button{
+    background-color: transparent;
+    border-width:2px;
+    border-color:black;
+}
+.card-2-card{
+    display:flex;
+    padding:20px;
+}
+.card-head{
+    padding:20px;
+}

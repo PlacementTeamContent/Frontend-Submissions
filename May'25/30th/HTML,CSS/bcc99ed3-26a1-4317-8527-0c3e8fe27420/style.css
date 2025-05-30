@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.section{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    background-size:cover;
+    width:100vw;
+    height:70vh;
+    padding:30px;
+}
+.btn{
+    background-color: #32AA27;
+    color:white;
+}
+.head{
+    color:#3BAE30;
+    font-size: 15px;
+}
+.para{
+    color:#020402;
+    font-size: 15px;
+    font-weight: bold;
+}
+.paragraph{
+    color:#808080;
+    font-size: 17px;
+}
+.img1{
+    width:100vw;
+    height:80vh;
+}
+.card{
+    background-color: #EEF1EF;
+    
+}
+.thridsection{
+    padding:10px;
+}
+.img2{
+    height:30vh;
+    width:80vw;
+    padding: 10px;
+    text-align: center;
+}
+.heading{
+    font-weight: bold;
+    font-size: 20px;
+    color:#020402;
+}
+.pass{
+    font-family: "Poppins";
+    color:#808080;
+}
+.button{
+    border-color:#595959;
+}
+.sectionfour{
+    padding:10px;
+}
+.foot{
+    background-color: #162415;
+    color:#ffffff;
+    padding: 5px;
+}
+.pasa{
+    text-decoration: underline;
+}
+
+@media screen and (max-width :992px){
+  .section{
+    justify-content: space-between;
+    text-align: center;
+    padding:10px;
+}
+.pasa{
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+}
+.head{
+    order:0;
+}
+.para{
+    order:1;
+}
+.paragraph{
+   order:3;
+}
+.img1{
+    order:0;
+    display: flex;
+   justify-content: flex-end;
+}
+}

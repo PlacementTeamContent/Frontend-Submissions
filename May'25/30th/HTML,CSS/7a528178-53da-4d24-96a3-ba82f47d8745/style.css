@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.div1{
+    background-image: url("https://cdn.b12.io/client_media/T04N1NUZ/6144288e-2b27-11f0-8112-0242ac110002-jpg-hero_image.jpeg");
+    height: 100vh;
+    width: 100vw;
+}
+
+.heading{
+    font-size: 23;
+    font-weight:bold;
+}
+.para{
+    font-weight:bold;
+}
+.button{
+    background-color:#32AA27;
+    border-width:0;
+    width:150px;
+    height: 100px;
+    font-weight:bold;
+}
+.card{
+    background-color: white;
+    text-align-last: right;
+    background-image :url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/about-departmental.jpeg");
+    background-size: cover;
+    height: 50vh;
+    width: 300px;
+    
+}
+.card2{
+    background-color: white;
+    text-align-last: right;
+    background-image :url("https://cdn.b12.io/client_media/T04N1NUZ/63ec6efc-2b27-11f0-8112-0242ac110002-jpg-hero_image.jpeg");
+    background-size: cover;
+    height: 50vh;
+    width: 300px;
+}
+.card3{
+    background-color: white;
+    text-align-last: right;
+    background-image :url("https://cdn.b12.io/client_media/T04N1NUZ/63a1ff16-2b27-11f0-8112-0242ac110002-jpg-hero_image.jpeg");
+    background-size: cover;
+    height: 50vh;
+    width: 300px;
+}

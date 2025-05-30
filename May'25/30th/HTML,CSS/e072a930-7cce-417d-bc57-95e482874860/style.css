@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.image{
+    background-image: url("https://cdn.b12.io/client_media/OBdq5QBx/755ff09e-2b06-11f0-8af7-0242ac110002-jpg-hero_image.jpeg");
+    background: cover;
+    height:600px;
+    width:800px;
+}
+.green{
+    color:green;
+    
+}

@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+#home-page {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg');
+    display: flex;
+    background-size: cover;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-content {
+    padding-bottom: 30vh;
+    padding-left: 30vh;
+}
+
+.head-mainpage {
+    font-size: 5vh;
+    font-weight: bold;
+}
+
+.head-para {
+    font-size: 2vh;
+    font-style: normal;
+}
+
+.view-btn {
+    background-color: #3BAE30;
+    color: white;
+    width: 11vh;
+    height: 4vh;
+    padding: 10px;
+    font-size: 1vh;
+}
+
+.about-con {
+    padding: 5vh;
+}
+
+.green {
+    color: #3BAE30;
+}
+
+.img {
+    height: 42vh;
+    width: 40vw;
+    padding: 80px;
+}
+
+#service {
+    background-color: #EEF1EF;
+    padding: 20px;
+}
+
+.section1 {
+    margin: 20px;
+}
+
+.section2 {
+    margin: 20px;
+}
+
+.img1 {
+    height: 40vh;
+    width: 40vw;
+    padding: 10px;
+}
+
+.read-btn {
+    border-width: 1px;
+    width: 15vw;
+    height: 5vh;
+}
+
+.con {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#footer {
+    background-color: black;
+    background-size: cover;
+    height: 20vh;
+    width: 100vw;
+}

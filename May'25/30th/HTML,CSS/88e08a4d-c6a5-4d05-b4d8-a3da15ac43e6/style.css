@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar{
+    background-color: #FFFFFF;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.green{
+    color: #3BAE30;
+    text-decoration: underline;
+}
+.bg{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    background-size: cover;
+    height: 60vh;
+    padding: 15px;
+}
+.btn1{
+    background-color: #32AA27;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+.bg1{
+    padding: 20px;
+}
+.text-green{
+    color: #3BAE30;
+    font-weight: bold;
+}
+.para{
+    color: #808080;
+}
+.image2{
+    height: 350%;
+    width: 100%;
+}
+.bg2{
+    background-color: #EEF1EF;
+    padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.btn2{
+    background-color: transparent;
+    color: black;
+    border: solid black;
+    padding: 5px;
+}
+.imgs{
+    padding-top: 20px;
+}
+.image3{
+    height: 200%;
+    width: 100%;
+}
+.textfot{
+    color: white;
+}
+.textbold{
+    color: white;
+    font-weight: bold;
+}
+.textbold1{
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.footer{
+    background-color: #162415;
+    padding: 30px;
+}
+
+@media (min-width:992px) {
+    /* .navbar{
+    
+    } */
+    .bg{
+        text-align: start;
+        justify-content: center;
+        align-content: center;
+        padding-left: 100px;
+    }
+    .bg1{
+        
+    }
+    .footer{
+        display: flex;
+        justify-content: space-between;
+    }
+}

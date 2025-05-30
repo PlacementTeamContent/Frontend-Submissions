@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.sr-only{
+    color:#32AA37;
+    text-decoration: underline;
+}
+nav{
+    font-family: "Poppins";
+}
+
+.container{
+    background-color: #FFFFFF;
+    margin-top: 10px;
+}
+.img1{
+    height:500px;
+    width:500px;
+}

@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.head{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-play-school.jpeg");
+    background-size:cover;
+    padding:40px;
+    margin:20px;
+}
+.super{
+    font-style: bold;
+}
+.b-1{
+    background-color:green;
+    color:white;
+}
+.para{
+    color:green;
+    font-family: bold;
+}
+.hed{
+    font-size: 30px;
+    
+}
+.world{
+    margin:20px;
+}
+.second{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/about-play-school.jpeg");
+    height:90vh;
+    width:65vh;
+    margin:20px;
+    
+}
+.first{
+    background-color: #EEF1EF;
+    margin:20px;
+    
+}
+.venu{
+    height:300px;
+    width:400px;
+    margin-left:40px;
+}
+.gopal{
+    font-size: 30px;
+    margin-left:40px;
+}
+.para-1{
+    
+    margin-left:40px;
+    font-family:Poppins;
+}
+.bu-1{
+    
+    margin-left:40px;
+}
+.frist-1{
+    margin:10px;
+}
+.colorr{
+    
+}

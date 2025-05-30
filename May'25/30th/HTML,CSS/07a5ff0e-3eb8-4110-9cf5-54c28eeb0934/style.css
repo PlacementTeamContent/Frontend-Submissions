@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.btn {
+    background-color: #32AA27;
+    color: white;
+}
+
+.para {
+    color: #3BAE30;
+}
+
+.head {
+    color: #3BAE30;
+}
+
+.btn1 {
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    border-color: black;
+}
+
+.card {
+    background-color: #162415;
+    text-align: center;
+}
+
+.card-titles {
+    color: white;
+}
+
+.card-texts {
+    color: white;
+}
+
+.card-body {
+    background-color: white;
+}
+
+.navbar-brand {
+    color: black;
+}

@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+*{
+    font-family: Poppins;
+}
+
+.navbar{
+    position: fixed;
+    background-color: white;
+    flex-direction: row;
+    font-weight: bold;
+}
+.intro{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg');
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    padding: 120px;
+}
+.intro > h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+.intro > p{
+    font-size: 17px;
+    font-weight: 500;
+}
+.intro > button{
+    background-color: #32AA27;
+    border: none;
+    height: 38px;
+    width: 150px;
+    color: white;
+    font-weight: bold;
+}
+.p_1 > p1{
+    color: #32AA27;
+    font-weight: bold;    
+}
+.p_1 > h1{
+    font-weight: bold;
+    font-size: 30px;
+}
+.p_1 > img{
+    height: 100%;
+    width: 100%;
+}
+.p_2{
+    background-color: #eef1ef;
+}
+.p_2 > p1{
+    color: #32AA27;
+    font-weight: bold;    
+}
+.p_2 > h1{
+    font-weight: bold;
+    font-size: 30px;
+}
+.p_2 > img{
+    height: 100%;
+    width: 100%;
+}
+
+.foot{
+    background-color: black;
+    color: white;
+    height: 20vh;
+    padding: 25px;
+}
+.foot > h1{
+    font-size: 15px;
+    text-align: center;
+}

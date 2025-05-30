@@ -1,0 +1,70 @@
+.homepage{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+    justify-content: center;
+}
+.homepage-heading{
+    color: #020402;
+}
+.homepage-para{
+    color: #020402;
+}
+.homepage-button{
+    background-color: #32AA27;
+    color: white;
+}
+.product-page{
+    background-color: #EEF1EF;
+}
+.product-para{
+    color: #3BAE30;
+}
+.card-2{
+   margin: 10px;
+   padding: 10px;
+}
+.card-3{
+    padding: 10px;
+    margin:10px;
+    
+}
+.img{
+    width:200px;
+    height: 300px;
+}
+.cart{
+    justify-content: center;
+    align-items: center;
+}
+.img1{
+    width: 300px;
+    height: 250px;
+}
+.heading{
+    color: black;
+    font-size: 16px;
+}
+.para{
+    color: #595959;
+}
+.btn{
+    border-color: black;
+    border-radius: 2px;
+    border-width: 2px;
+}
+.footer{
+    background-color: #162415;
+    color: white;
+    height:150px;
+    justify-content: center;
+    text-align: center;
+}
+.footer-heading{
+  font-size: 12px;  
+}
+.font-para{
+    font-size: 10px;
+    color: #808080;
+}

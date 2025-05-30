@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.hi {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-play-school.jpeg');
+    background-size: cover;
+    padding: 150px;
+    
+}
+.he {
+    font-weight: bold;
+    color:#162415;
+    font-family: Poppins;
+}
+.hei {
+    font-weight: semi-bold;
+    color:#162415;
+    
+}
+.heo {
+    background-color: #32AA27;
+    color: white;
+    border-radius: 5px;
+    
+}

@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.IQ{
+    font-weight: bold;
+}
+.top{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+background-size:cover;
+height:40vh;
+display:flex;
+justify-content:center;
+align-items:center;
+    
+}
+.top-h-wel{
+    font-size:39px;
+    font-weight:800;
+}
+.top-des-p{
+   color:black;
+   font-size:18px;
+   font-weight:700;
+}
+.wel{
+    color:green;
+    padding-top:12px;
+    font-size:18px;
+}
+.yo{
+    font-size:23px;
+    font-weight:800;
+}
+.shop{
+    font-weight:200;
+    font-family:poppins;
+}
+.img-bag{
+    height:40vh;
+}
+.down-three{
+    background-color:#EEF1EF;
+}
+
+.se{
+    color:#32AA27;
+    padding-left:9px;
+    padding-top:6px;
+    margin:2px;
+    font-weight:700;
+    
+}
+
+.qu{
+    font-weight:800;
+}
+.watch-img{
+    height:45vh;
+    width:60vh;
+}
+.read{
+    color:#020402;
+    border:black;
+  
+    
+}
+#btnn{
+     font-size:19px;
+    font-weight:400;
+   
+}
+
+.footerr{
+    background-color:#162415;
+    height:30vh;
+}
+.pp{
+    color:white;
+    font-weight:900;
+}
+.pph{
+    text-decoration: underline;
+    color:white;
+}

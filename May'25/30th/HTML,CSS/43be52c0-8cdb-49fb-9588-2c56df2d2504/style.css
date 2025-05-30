@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.themostbackground {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vh;
+    height: 100vh;
+    flex-direction: fixed;
+
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.h1 {
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #32AA27;
+    color: white;
+}
+
+.navbar {
+    display: flex;
+
+}
+
+.secoundpage {
+    width: 100vh;
+    height: 100vh;
+}
+
+.width {
+    width: 100px;
+    height: 100px;
+}
+
+img {
+    height: 80vh;
+    padding: 30px;
+    margin: 20px;
+    width: 50vh;
+}
+h3{
+    color:;
+}

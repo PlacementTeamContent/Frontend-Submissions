@@ -1,0 +1,36 @@
+.container{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg") ;
+    background-size:cover ;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    font-family: "Poppins";
+}
+.pink{
+    background-color:#32AA27 ;
+    color: white;
+    border-color:white ;
+    border-style:solid ;
+    border-radius:0px;
+    border-width: 0px;
+}
+.parrot{
+    color:#3BAE30 ;
+    font-family: "Poppins";
+}
+.head-1{
+    color:#020402 ;
+    font-family: "Poppins";
+}
+.image-1{
+    height: 500px;
+    width: 500px;
+}
+.card-container-1{
+    background-color:#EEF1EF ;
+    
+}
+.card-container-2{
+    background-color:#EEF1EF ;
+    
+}

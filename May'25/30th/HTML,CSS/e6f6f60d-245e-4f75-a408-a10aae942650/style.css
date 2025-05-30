@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.banner{
+    position: relative;
+    width: 100%;
+}
+.on_S {
+    position: absolute;
+    
+    text-align: center;
+    
+}

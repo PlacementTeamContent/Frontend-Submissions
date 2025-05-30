@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar-brand{
+    color:#020402;
+    font-family: "Poppins";
+    font-size:30px;
+    padding:5px;
+}
+.nav-link a{
+    color:#020402;
+    font-family: "Poppins";
+    font-size: 20px;
+    padding:5px;
+    align-items: flex-end;
+}
+.nav{
+    color:#3BAE30;
+    font-family: "Poppins";
+    font-size: 20px;
+    padding: 5px;
+    text-decoration: underline;
+}
+.hero-section{
+    background:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    background-color: #fff;
+    text-align: left;
+    padding:5px;
+    margin:10px;
+    height: 500px;
+    width: 100vw;
+}
+.hero h1{
+    color:#020402;
+    font-family: "Poppins";
+    padding:5px;
+    margin-left:15px;
+    font-size: 30px;
+}
+button{
+    color:white;
+    background-color: #32AA27;
+    font-family: "Poppins";
+    padding:5px;
+    margin-left:15px;
+    font-size: 25px;
+    border:none;
+}
+.head{
+    justify-content: flex-start;
+}
+.heading1{
+    color:#3BAE30;
+    font-family: "Poppins";
+ /*    font-weight: bold; */
+    padding:5px;
+    font-size: 25px;
+}
+.heading2{
+    color:#020402;
+    font-family: "Poppins";
+    font-weight: bold;
+    padding:5px;
+}
+.para{
+    color:#020402;
+    font-family: "Poppins";
+  /*   font-weight: bold; */
+    padding:5px;
+    font-size:25px;
+}
+.img{
+    justify-content: flex-end;
+    height: 100px;
+}
+.img-link{
+    justify-content: flex-end;
+    height:500px;
+    width: 500px;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.head22{
+    background-color: #EEF1EF;
+    display:flex;
+    justify-content: flex-start;
+}
+.img-link1{
+     justify-content: center;
+    height:300px;
+    width: 300px;
+    align-items: center;
+    flex-direction: column;
+    padding:5px;
+}
+.parr{
+    display: flex;
+    flex-wrap: wrap;
+    font-size:20px;
+    font-family:"Poppins" ;
+    
+}
+.he{
+     display: flex;
+    flex-wrap: wrap;
+    font-size:20px;
+    font-family:"Poppins" ;
+}
+.butt{
+     display: flex;
+    flex-wrap: wrap;
+    font-size:20px;
+    font-family:"Poppins" ;
+    background-color: transparent;
+    color:black;
+    border-width: 1 4;
+}

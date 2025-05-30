@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.head{
+    font-weight: bold;
+    background-color: #FFFFFF;
+}
+.bold{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg');
+    background-size: cover;
+    height: 75vh;
+}
+.ar{
+    text-align: start;
+    margin-top: 390px;
+    
+}
+.button{
+    border: 0px;
+    border-radius: 2px;
+    color: white;
+    font-weight: bold;
+    background-color: #3bAE30;
+}

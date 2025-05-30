@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar-brand{
+  color: #020402;
+  font-weight:bold;
+}
+.nav-link1{
+    color:#3BAE30;
+    text-decoration: underline;
+}
+.bg-container{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg") ;
+    height:360px;
+    background-size:cover ;
+}
+.space{
+    padding:40px;
+    margin:20px;
+}
+.para{
+    color: #020402;
+ }
+ .par{
+     color:#3BAE30;
+ }
+ .context{
+     padding:10px;
+     margin:5px;
+ }
+ .gree{
+     background-color:#EEF1EF;
+ }
+ .context1{
+     padding:30px;
+     margin:15px;
+     
+ }
+ .context2{
+     padding:35px;
+     
+ }
+ .img1{
+     padding:7px;
+     margin: 10px;
+ }
+ .btn-2{
+     border-radius:4px;
+     color: #020402;
+     font-weight:bold;
+ }
+ .footer{
+     background-color:#162415;
+     height:180px;
+ }
+ /* .img{
+     padding:5px;
+     margin:15px;
+ } */
+ .heading{
+    color: #020402;
+  font-weight:bold; 
+ }
+ .btn{
+     background-color:#32AA27;
+     color: white;
+     text-align: left;
+    
+ }
+ .image{
+     height:350px;
+     width:330px;
+ }
+ .pa{
+     color:#FFFFFF;
+ }
+ .li{
+     color:#FFFFFF;
+     text-decoration:underline;
+     text-align: center;
+ }
+ @media (min-width:768px){
+     .context{
+         text-align:left;
+         display:flex;
+         flex-direction:column;
+         order:1;
+     }
+     .img{
+         text-align:right ;
+         order:2;
+         
+     }
+ }
+ @media (min-width:768px){
+     .context2{
+         text-align:right;
+         display:flex;
+         flex-direction:column;
+         order:2;
+         padding:20px;
+     }
+}
+@media (min-width:768px){
+     .context3{
+         text-align:left;
+         display:flex;
+         flex-direction:column;
+         order:1;
+         padding:20px;
+     }
+     .img8{
+         text-align:right;
+         display:flex;
+         flex-direction:row;
+         order:2;
+         padding:20px;
+     }
+}

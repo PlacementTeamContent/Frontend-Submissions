@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #FFFFFF;
+    
+}
+
+.img1 {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg');
+    height: 200px;
+    text-align: center;
+}
+
+.h1 {
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-weight: bold;
+    font-family: "Poppins";
+
+}
+
+.btn1 {
+    background-color: #32AA27;
+    color: #EEF1EF;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.service {
+    background-color: #EEF1EF;
+    height: 400px;
+}
+
+.p1 {
+    color: #3BAE30;
+    font-size: 10px;
+    font-weight: bold;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+.h2 {
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 10px;
+    font-family: "Poppins";
+}
+
+.p2 {
+    padding-left: 10px;
+}
+
+.img2 {
+    height: 550px;
+    width: 450px;
+}
+
+.section-2 {
+    background-color: #EEF1EF;
+    height: 1040px;
+}
+
+.p3 {
+    color: #32AA37;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.h3 {
+    padding-left: 30px;
+    font-weight: bold;
+    font-family: "Poppins";
+}
+
+.img3 {
+    height: 300px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.h4 {
+    padding-top: 20px;
+    padding-left: 30px;
+    font-weight: bold;
+    font-family: "Poppins";
+ 
+}
+
+.p4 {
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.btn2 {
+    margin-left: 30px;
+}
+
+.img4 {
+    height: 300px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.footer {
+    background-color: #162415;
+    height: 200px;
+}
+
+.h4 {
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.h5 {
+    color: #EEF1EF;
+    padding-left: 40px;
+    padding-top: 20px;
+    font-family: "Poppins";
+}
+
+.h6 {
+    color: #EEF1EF;
+    padding-left: 40px;
+    text-decoration: underline;
+}

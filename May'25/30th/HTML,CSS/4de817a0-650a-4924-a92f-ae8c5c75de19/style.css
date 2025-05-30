@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar-brand{
+    padding: 30px 20px;
+    font-weight: bold;
+    font-family: "Poppins";
+}
+.navbar{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.first-section{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover ;
+    text-align: left;
+     padding: 80px 70px; 
+    display: flex;
+     flex-direction: column;  
+  /*  flex-direction: row; */
+    align-items: bottom;
+    justify-content: center;
+    
+    
+}
+.first-section-heading{
+   font-weight: bold;
+   font-family: "Poppins";
+   font-size: 50px;
+   color: #020402;
+   gap: 20px;
+}
+.first-section-para{
+   font-weight: light;
+   font-family: "Poppins";
+ 
+   color: #020402; 
+}
+.btn-sucess{
+    background-color:#32aa27 ;
+    color: white;
+    border-radius: 0px;
+    border: 0px;
+    height: 30px;
+    width: 15vw;
+   
+}
+.mid-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    grid-column: 1fr 1fr;
+    padding: 40px 20px;
+    align-items: center;
+}
+.mid-section-head{
+    font-weight: bold;
+   font-family: "Poppins";
+   font-size: 40px;
+   color: #020402;
+   gap: 20px; 
+}
+.img1{
+    height: 30vh;
+    
+}
+.service{
+    color: #32aa27;
+    font-family: "Poppins";
+    padding-left: 60px;
+    font-weight: bold;
+    
+}
+.third-section-para{
+   font-weight: bold;
+   font-family: "Poppins";
+   padding-left:60px ;
+   color: #020402;
+   gap: 20px;  
+}
+.third-section{
+    background-color: #eef1ef;
+    padding: 30px;
+}
+.third-section-card{
+    text-align: left;
+    display: flex;
+    background-color: white;
+    flex: wrap;
+    padding: 40px;
+    
+}
+.img2{
+    height: 20vh;
+    justify-content: left;
+}
+.third-section-card-head{
+    display: flex;
+    justify-content: center;
+
+}
+.para{
+    display: flex;
+    justify-content:right;
+    align-items: right;
+}
+.btn{
+    background-color: transparent;
+    color: black;
+    border: 5px;
+    border-color: black;
+    display: flex;
+    justify-content:right;
+    align-items: right;
+}
+.footer{
+    background-color: #162415;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap:20px;
+}

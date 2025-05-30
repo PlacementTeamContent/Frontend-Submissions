@@ -1,0 +1,24 @@
+.main-head{
+    padding: 200px;
+}
+.heading{
+    color: black;
+    font-weight: bold;
+}
+.para{
+    font-weight: bold;
+}
+.main-butt{
+    color: white;
+    font-weight: bold;
+    background-color: #3bae30;
+    border:none;
+    border-radius: 5px;
+    height: 60px;
+    width: 130px;
+}
+.image{
+    background-size: cover;
+    width: 100px;
+    height: 20vh;
+    }

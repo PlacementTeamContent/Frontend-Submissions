@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.homepage{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    position: fixed;
+    height: 780px;
+    width: 100%;
+}
+.head{
+    color: #020402;
+    font-family: Poppins;
+    text-align: left;
+    font-weight: bold;
+}
+.para{
+    color: #020402;
+    font-family: Poppins;
+    text-align: left;
+}
+.btn{
+    border-radius: 10px;
+    background-color: #32AA27;
+    color: #EEF1EF;
+    text-align: left;
+}
+.heading{
+    padding-top: 300px;
+    padding-left: 50px;
+}
+.secondpage{
+    img src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/about-iq-mall.jpeg";
+}

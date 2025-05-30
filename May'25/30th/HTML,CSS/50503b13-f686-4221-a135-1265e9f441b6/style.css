@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.background{
+    height: 50vh;
+    background-size: cover;
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+}
+.heading{
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+}
+.button{
+    background-color: #32AA27;
+    border-width: 0px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+    margin: 10px;
+}
+.para{
+    color: #3BAE30;
+    padding: 10px;
+    font-weight: bold;
+}
+.head{
+    color: #020402;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+.para1{
+    color: #808080;
+    padding: 5px;
+}
+.image{
+    height: 50vh;
+    background-size: cover;
+    margin: 10px;
+}
+.back{
+    background-color: #EEF1EF;
+    height: 70vh;
+    background-size: cover;
+    margin: 10px;
+}
+.image1{
+    height: 300px;
+    width: 270px;
+    margin: 10px;
+}

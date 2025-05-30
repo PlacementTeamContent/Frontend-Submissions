@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.home{
+    color:#32AA27;
+}
+.navbar-nav{
+    display:flex;
+    flex-direction:row;
+    margin-left:550px;
+    
+}
+.navbar{
+    background-color: #FFFFFF;
+  
+}
+.navbar-brand{
+    font-weight: bold;
+
+}
+.bg-img{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg");
+    background-size:cover;
+    background-position: center;
+    height:70vh;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+    align-items: flex-start;
+    padding:150px;
+}
+.bg-head{
+    color:black;
+    font-weight:bold;
+    font-family:"Poppins";
+}
+
+.bg-para{
+    color:black;
+    
+}
+.bg-button{
+    background-color: #3BAE30;
+    color:#ffffff;
+    border:0px;
+    padding:5px;
+    font-weight:bold;
+}
+@media screen and (min-width:768px){
+    .bg-head{
+        font-size:60px;
+    }
+    .bg-para{
+        font-size:28px;
+    }
+}
+@media screen and (max-width:768px){
+    .bg-head{
+        font-size:30px;
+    }
+    .bg-para{
+        font-size:10px;
+    }
+   
+}
+.ser-cont{
+    padding-left:20px;
+    padding:30px;
+}
+.dental-head{
+    color:#32AA27;
+    font-weight:bold;
+    font-size:15px;
+}
+.expert-head{
+    font-weight:700;
+    font-size:25px;
+    font-family: Poppins;
+}
+.dental-para{
+    font-weight:500;
+   
+    font-family: Poppins;
+}
+.ser-img{
+    height:100%;
+    width:100%;
+
+}
+.other-cont{
+    background-color: #EEF1EF;
+    padding:20px;
+}
+.teeth{
+    background-color: white;
+    width:100%;
+    display:flex;
+   
+    align-items:center;
+    justify-content:center;
+    margin:10px;
+    padding:10px;
+}
+.ser-img2{
+    height:200px;
+    padding:20px;
+}
+.btn{
+    background-color:white;
+    border-color:black;
+    color:black;
+}
+.one{
+    display:flex;
+    flex-direction:column;
+}
+.footer{
+    background-color: black;
+    display:flex;
+    flex-direction: column;
+    color:white;
+    align-items:center;
+}
+.ft1{
+    font-weight:bold;
+}
+.ft2{
+    margin:7px;
+}
+.ft3{
+    margin:7px;
+}
+.di{
+    display:flex;
+   
+}
+@media (min-width:768px){
+    .di{
+    display:flex;
+    flex-direction:row;
+    }
+}

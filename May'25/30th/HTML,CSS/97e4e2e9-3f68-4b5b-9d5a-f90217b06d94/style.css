@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.container{
+    width:100vw;
+    height:200vh;
+}
+.container1{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+    background-size:cover;
+    background-image:fixed;
+    padding:75px;
+    text-align:center;
+    
+    height:50vh;
+}
+.img1btn{
+   background-color:#3BAE30; 
+}
+.img1header{
+    font-size:25px;
+    font-weight:bold;
+}
+.img1para{
+    font-size:15px;
+    font-weight:bold;
+}
+.imageboxx{
+    background-size: cover;
+    width:180px;
+}
+.imagebox{
+    width:50px;
+    color:#32AA27;
+}
+.info{
+    width:150px;
+    padding:5px;
+}
+.head{
+    font-size:12px;
+    color:#020402;
+}
+.para{
+    font-size:5px;
+    color:#808080;
+}
+.container2{
+    height:170px;
+    margin-top:30px;
+}
+.container3{
+    background-color:#EEF1EF;
+    margin-top:30px;
+    height:200px;
+}
+.imgcont3{
+     background-size: cover;
+    width:160px;
+}
+.headercard2{
+    font-size:12px;
+}
+.paracard2{
+    font-size:5px;
+}
+.card2{
+    padding:20px;
+    text-align:center;
+}
+.headercont3{
+    font-size:20px;
+    color:#162415;
+}
+.card{
+    background-color:#EEF1EF;
+    height:230px;
+    border-color:#EEF1EF;
+}
+.container4{
+    background-color:#EEF1EF;
+    width:300px;
+    height:100px;
+}

@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar-brand{
+    color: black;
+    font-family:"Poppins";
+    font-weight: bold;
+}
+.bg-container {
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+    height: 550px;
+    width: 398px;
+    background-size:cover;
+}
+.head1 {
+    color:#3BAE27;
+    font-size:17px;
+    font-family:"Poppins";
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.head2 {
+    font-size:25px;
+    margin-left: 28px;
+    margin-top: 8px;
+    font-weight: bold;
+}
+.hh {
+    color:#162415;
+    font-family: "Poppins";
+    font-weight: bold;
+    margin-left: 40px;
+    font-size:30px;
+    padding-top: 200px;
+}
+.pp{
+    font-family: "Poppins";
+    margin-left: 40px;
+    font-weight: bold;
+    
+    
+}
+.btn {
+    border-width: 5px;
+    border-radius: 5px;
+    background-color: #32AA27;
+    color: #ffffff;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.para {
+    font-family: "Poppins";
+    margin-left: 30px;
+    margin-top:10px;
+    
+}
+.imgggg {
+    height: 500px;
+    width: 360px;
+    background-size:cover;
+    margin-left: 25px;
+}
+.bottom {
+    background-color:#EEF1EF;
+    height: 700px;
+    width: 400px;
+    
+}
+.hello {
+    color:#32AA27;
+    font-family:"Poppins";
+    font-size:15px;
+    margin-left: 30px;
+    padding-top:10px;
+    
+}
+.hello1{
+    color: #162415;
+    font-weight: bold;
+    margin-left: 30px;
+    font-size:20px
+}
+.img2 {
+    height: 300px;
+    width: 360px;
+    background-size:cover;
+    margin-left: 25px;
+    
+}
+.hello3 {
+    margin-left: 30px;
+    padding-top: 20px;
+    font-weight:bold;
+    font-family:"Poppins";
+    font-size:20px;
+    
+    
+    
+}
+.hello4 {
+    font-family:#3BAE30;
+    margin-left: 30px;
+    font-family: "Poppins";
+    padding-top:10px;
+    
+}
+.btn1 {
+    border-width: 2px;
+    border-radius: 2px;
+   
+    color: black;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 5px;
+    
+}

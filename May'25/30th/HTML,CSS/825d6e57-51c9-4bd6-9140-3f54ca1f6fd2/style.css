@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.active1 {
+    text-decoration: underline;
+    color: #32AA27;
+    margin-top: -2px;
+}
+
+.navbar-expand-lg {
+    position: fixed;
+    width: 100vw;
+}
+
+#navbrands {
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-left: 150px;
+    margin-right: 300px;
+
+}
+
+#navbarNavAltMarkup {
+    margin-left: 200px;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.content {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg');
+    background-size: cover;
+    height: 75vh;
+}
+
+.head {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.para {
+    font-size: 20px;
+}
+
+.head-content {
+    margin-top: 135px;
+    margin-left: 215px;
+}
+
+.contain {
+    background-color: #ffffff;
+}
+
+.button {
+    color: #ffffff;
+    font-family: "Roboto";
+    background-color: #32AA27;
+    padding: 8px;
+    border-color: #32AA27;
+    border-radius: 10px;
+}
+
+.para1 {
+    color: #32AA27;
+}
+
+.about-content {
+    width: 500px;
+}
+
+.body {
+    height: 500px;
+    width: 500px;
+}
+
+.contain1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.contain2 {
+    margin-top: 10px;
+    padding: 50px;
+    background-color: #EEF1EF;
+}
+
+.body1 {
+    height: 200px;
+    width: 200px;
+}
+
+.content1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.head1 {
+    color: black;
+    font-weight: bold;
+}
+
+.contain3 {
+    background-color: #ffffff;
+    padding: 30px;
+    margin-left: -215px;
+}
+
+.button1 {
+    color: black;
+    background-color: #ffffff;
+    border-color: black;
+    padding: 8px;
+}
+
+.contain4 {
+    margin-top: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin-right: -200px;
+    margin-top: -3px;
+}
+.footer {
+    background-color:#020402;
+    color:#ffffff;
+    text-align:center;
+    padding:50px;
+}
+.foot-div {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
+    margin-left:250px;
+    width:50vw;
+    margin-top:50px;
+}

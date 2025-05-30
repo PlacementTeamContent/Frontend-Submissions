@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.div{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+    background-size:cover;
+    height:60vh;
+    width:100vw;
+    padding-left:40px;
+}
+.h1{
+    color:#020402;
+    font-size:80px;
+    
+
+}
+.p1{
+     color:#020402;
+     font-size:20px;
+}
+.btn1{
+    background-color:#3BAE30;
+    padding:10px;
+    border-color:#3BAE30;
+    color:white;
+    border-width:3px;
+}
+.p2{
+    color:#32AA27;
+    font-size:20px;
+}
+.h2{
+    color:#020402;
+    font-size:60px;
+}
+.p3{
+    color:#808080;
+}
+.img1{
+    height:40vh;
+    width:30vw;
+}
+.p4{
+    color:#32AA27;
+    font-size:20px;
+}
+.h3{
+    color:#020402;
+}
+.img2{
+    height:40vh;
+    width:40vw;
+}
+.p5{
+    color:black;
+    font-size:30px;
+}
+.p6{
+    color:#808080;
+}
+.btn2{
+    background-color:#EEF1EF;
+    color:black;
+    border-color:black;
+    padding:10px;
+}
+.div1{
+    background-color:#EEF1EF;
+}
+.div2{
+    padding-left:5px;
+}
+.div4{
+    background-color:#162415;
+    height:20vh;
+    width:100vw;
+}
+.h9{
+    color:white;
+    font-size:30px;
+}
+.navbar{
+    background-color:#FFFFFF;
+}
+.nav-link{
+    color:green;
+}

@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.bg{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    height: 600px;
+    background-size: cover;
+    text-align: center;
+    color:#020402 ;
+}
+.button{
+    background-color:#3BAE30 ;
+    color: #EEF1EF;
+    border-block-color:#3BAE30 ;
+    border-bottom: #3BAE30;
+    border-block-width: #3BAE30;
+}
+.heading{
+    color:#3BAE30 ;
+    font-family: "Poppins";
+    border: 20px;
+   
+}
+.h1{
+    font-size: "bold";
+}
+.para{
+    color: #808080;
+}
+.photo1{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/about-iq-mall.jpeg");
+    height: 600px;
+    background-size: cover;
+}
+.container3{
+    background-color: #EEF1EF;
+    height: 100px;
+    background-size: cover;
+   
+}
+.photo2{
+      background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/product-iq-mall-1.jpeg");
+    height: 600px;
+    background-size: cover;
+}
+.bold{
+    font-size: "bold";
+}
+.color{
+    color: #808080;
+}
+.button1{
+    border-block-color:#808080 ;
+}
+.photo3{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/product-iq-mall-2.jpeg");
+    height: 600px;
+    background-size: cover;
+}
+.black{
+    background-color: #162415;
+    height: 150px;
+     background-size: cover;
+}
+.white1{
+    color:white;
+}
+.white2{
+    
+}

@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar-brand{
+    color: #020402;
+    font-family: Poppins;
+    font-weight: bold;
+}
+.nav-link{
+    color: #595959;
+    font-family: Poppins;
+}
+.navbar-nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    
+}
+.nav-link:hover{
+    color: #32AA27;
+    text-decoration: underline;
+}
+
+.your{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+    height: 50vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+.one{
+    color: #020402;
+    font-family: Poppins;
+    font-weight: bold;
+}
+.button{
+    color: #EEF1EF;
+    background-color: #3BAE30;
+    border-width: 0px;
+}
+.your{
+    display: flex;
+    text-align: center;
+    align-items: left;
+    flex-direction: column;
+}
+.dis{
+    color: #162415;
+}
+.step{
+    color: #020402;
+    font-family: Poppins;
+}
+.at{
+    color: #808080;
+    font-family: Poppins;
+}.back{
+    background-color: #EEF1EF;
+    padding: 10px;
+}
+.smart{
+    color: #3BAE30;
+    font-family: Poppins;
+    padding: 10px;
+}
+.cloth{
+    padding: 10px;
+}
+.cup{
+    padding: 10px;
+}
+footer{
+    background-color: #020402;
+    color: #EEF1EF;
+    text-align: center;
+}

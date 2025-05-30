@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.background-container{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+    height: 70vh;
+    width: 100vw;
+    background-size: cover;
+}
+.main-heading{
+    font-family: poppins;
+    font-size: 60px;
+    font-style: bold;
+    margin-left: 190px;
+    padding-top: 250px;
+}
+.main-para{
+    font-family: poppins;
+    margin-left: 190px;
+    font-size: 30px;
+}
+.main-button{
+     margin-left: 190px;
+     background-color: #32AA27;
+     color:white;
+     font-size: 24px;
+     font-family: poppins;
+}
+.sec-heading{
+    width: 420px;
+    margin-top: 150px;
+    margin-left: 80px;
+}
+.sec-para{
+    margin-left: 80px;
+    width: 500px;
+}
+.fst-image{
+    height: 470px;
+    width: 450px;
+    margin-left: 600px;
+    margin-top: -380px;
+    margin-bottom: 25px;
+}
+.services-background{
+    background-color: #EEF1EF;
+}
+.thr-heading{
+    margin-top: 150px;
+    margin-left: 80px;
+    
+}
+.sec-image{
+    height: 470px;
+    width: 450px;
+    margin-left: 80px;
+    margin-top: 45px;
+}
+.thr-sub-heading{
+    margin-left: 600px;
+    margin-top: -280px;
+    font-size: 24px;
+}
+.thr-sub-para{
+    margin-left: 600px;
+    margin-top: 15px;
+    font-size: 24px;
+}
+.bton{
+    margin-left: 600px;
+    margin-top: 15px;
+    margin-bottom: 200px;
+    font-size: 24px;
+}
+..lst-image{
+    height: 170px;
+    width: 450px;
+    margin-left: 600px;
+    margin-top: -380px;
+    margin-bottom: 25px;

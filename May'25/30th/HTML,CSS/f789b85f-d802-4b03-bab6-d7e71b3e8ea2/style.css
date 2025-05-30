@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+@media (min-height:992px){
+    .navbar{
+        position:fixed;
+    }
+    .navbar-{
+    margin-left:450px;
+}
+.navbar-brand{
+    margin-left:100px;
+    font-weight:bold;
+}
+    .home{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+    background-size: cover;
+    height:40vh;
+    text-align: center;
+    position: static;
+}
+.cont{
+    text-align: left;
+    place-self: center;
+    padding-top:200px;
+}
+.heading{
+    font-weight:bold;
+    color:black;
+    font-size:50px;
+}
+.cont1{
+    display:flex;
+    margin:60px;
+}
+.small{
+    color:#32AA27;
+    font-weight:bold;
+}
+img{
+    height:350px;
+    margin-left:20px;
+}
+.para{
+    font-weight:bold;
+}
+.button{
+    background-color:#32AA27 ;
+    color:#ffffff;
+    border-width:0px;
+    height:40px;
+    width:150px;
+}
+.cont2{
+    background-color: #eef1ef;
+    margin-bottom:0px;
+}
+.cont4{
+    margin:60px;
+    padding-top:10px;
+}
+.cont5{
+    display:flex;
+    align-items: center;
+}
+.paracont{
+    margin-left:20px;
+}
+.cont6{
+    display:flex;
+    margin:30px;
+    
+    align-items:center;
+}
+.footer{
+    display:flex;
+    background-color: #162415;
+    height:100px;
+    color:#ffffff;
+    padding:20px;
+}
+.footer2{
+    padding-left:30px;
+}
+}
+@media (max-height:992px){
+    .navbar-{
+         display:none;
+}
+.navbar-brand{
+    margin-left:40px;
+    font-weight:bold;
+}
+.home{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+}
+.cont{
+    display:none;
+}
+.cont1{
+    display:flex;
+    flex-direction: column;
+    margin:100px;
+}
+.cont4{
+    margin:60px;
+    padding-top:10px;
+}
+.imgcont{
+    
+}
+.cont5{
+    display:flex;
+    flex-direction:column;
+    align-items: flex-start;
+}
+.paracont{
+    margin-left:20px;
+}
+
+}

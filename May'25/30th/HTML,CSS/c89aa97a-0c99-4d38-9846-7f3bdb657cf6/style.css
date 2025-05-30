@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.container{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg');
+    background-size: cover;
+    height: 300px;
+    
+}
+
+
+.button{
+    background-color: #32AA27;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.container2{
+    display: flex;
+    margin: 20px;
+}
+
+.image{
+    width: 40vw;
+    height: 40vh;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.para2{
+    color: #3BAE30;
+}
+
+.para4{
+    color: #3BAE30;
+}
+.para6{
+    font-weight: bold;
+}
+.para5{
+    color: #595959;
+    margin: 30px;
+}
+
+.image2{
+    width: 70vw;
+    margin: 30px;
+    
+}
+
+.container3{
+    justify-content: center;
+    background-color: #EEF1EF;
+    
+}

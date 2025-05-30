@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar-brand {
+    color: #162415;
+    font-size: 20px;
+    font-family: Poppins;
+}
+.image {
+    height: 50vh;
+    width: 100vw;
+}
+.head {
+    font-size: 15px;
+    color: #3BAE30;
+    justify-content: space-between;
+    display: flex;
+}
+.head1 {
+    font-family: Poppins;
+}
+.para {
+    color: #808080;
+}
+.container {
+  background-color: #EEF1EF; 
+  height: 128vh;
+  padding: 10px;
+}
+.card {
+    color: white;
+    height: 55vh;
+    width: 60vw;
+   justify-content: space-between;
+   padding-left: 10px;
+   padding-top: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+}
+.img {
+    height: 30vh;
+    width: 55vw;
+    
+}
+.btn {
+    background-color: #FFFFFF;
+    color: #162415;
+    border-color: #162415;
+    padding: 10px;
+    width: 40vw;
+}
+.banner-4 {
+    background-color: #162415;
+    height: 30vh;
+}
+.h1 {
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+.para1{
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+.para2{
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}

@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.container{
+    background-image:url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg');
+    background-size:cover;
+    height:100vh;
+}
+.mainhead{
+    color:#020402;
+    font-weight:bold;
+      font-family:"Poppins";
+      font-size:30px;
+}
+.button{
+    color:#ffffff;
+    height:50px;
+    width:150px;
+    background-color:#32AA27 ;
+     font-weight:bold;
+}
+.paras{
+    color:#3BAE30;
+    
+}
+.sustainability_page{
+    height:100vh;
+    width:100vw;
+}
+.hexahead{
+   color:#020402;
+    font-weight:bold; 
+    font-family:"Poppins";
+      font-size:30px;
+}
+.sustext{
+    height:300px;
+    width:400px;
+    font-size:20px;
+}
+.transpara{
+     color:#3BAE30;
+         font-size:20px;
+}
+.head{
+     color:#020402;
+    font-weight:bold;
+    font-size:20px;
+    
+}
+.tranformation_page{
+    background-color:#EEF1Ef ;
+    width:100vw;
+}
+
+.footer {
+     background-color:#162415;
+     color:#ffffff;
+}

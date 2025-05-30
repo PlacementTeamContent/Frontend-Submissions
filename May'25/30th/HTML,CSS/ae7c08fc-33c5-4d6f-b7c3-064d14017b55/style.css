@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+* {
+    font-family: "Poppins";
+}
+
+.white-bg {
+    background-color: #FFFFFF;
+    position: fixed;
+    /* z-index: 0; */
+    min-width: 100vw;
+    /* min-height: 100vh; */
+}
+
+.nav-link:hover {
+    color: #32AA27;
+    text-decoration: underline;
+    text-decoration-color: #32AA27;
+}
+
+.navbar-brand {
+    font-family: "poppins";
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.bg {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    width: 1000px;
+    height: 400px;
+    padding: 70px;
+}
+
+.but {
+    background-color: #32AA27;
+    /* border-radius: 10px; */
+    color: white;
+    height: 50px;
+    width: 180px;
+    border: none;
+    margin-left: 100px;
+}
+
+.head {
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+.w-bg {
+    background-color: #FFFFFF;
+    min-height: 40vh;
+    margin-top: 90px;
+    margin-left: 90px;
+    display: flex;
+    justify-content: space-around;
+    /*  min-width: 100vw; */
+}
+
+.head1 {
+    color: #3BAE30;
+    font-size: 20px;
+}
+
+.head2 {
+    font-weight: bold;
+}
+
+.para {
+    color: #808080;
+}
+
+.image {
+    width: 300px;
+    height: 350px;
+    padding-left: 50px;
+}
+
+.image1 {
+    width: 600px;
+    height: 450px;
+    padding: 50px;
+}
+
+.bg-gray {
+    background-color: #EEF1EF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 110vh;
+}
+
+.btn1 {
+    border: solid;
+    border-color: #020402;
+    background-color: transparent;
+    padding: 10px;
+    width: 160px;
+}
+
+.black-bg {
+    background-color: #020402;
+    display: flex;
+    justify-content: space-around;
+    min-height: 20vh;
+    padding-top: 40px;
+    color: white;
+}
+
+.a {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.b {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.c {
+    text-decoration: underline;
+    color: #595959;
+}

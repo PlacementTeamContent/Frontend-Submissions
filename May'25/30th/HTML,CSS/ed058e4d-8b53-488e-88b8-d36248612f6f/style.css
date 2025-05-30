@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+#nav_p{
+    color:#32AA27;
+    text-decoration: underline;
+}
+#nav_h1{
+    font-weight:bold;
+}
+.main-bg{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg');
+    height:100vh;
+    width:100vh;
+    background-size:cover;
+    padding:20px;
+}
+.main-bg-h1{
+    font-weight:bold;
+}
+.main-bg-btn{
+    background-color:#32AA27;
+    color:#ffffff;
+    padding:10px;
+}
+.section{
+    margin:50px;
+    margin-top:60px;
+}
+.sp-img{
+    height:450px;
+    width:250px;
+    background-size:cover;
+}
+.second-page{
+    width:100vh;
+    padding:50px;
+}
+.second-page-h3{
+    color:#3BAE30;
+}
+.ser-img{
+    height:200px;
+    width:180px;
+}
+.service-page{
+    width:100vh;
+    background-color:#EEF1EF;
+    padding:40px;
+}
+.service-page-box{
+    margin-top:20px;
+}
+.box{
+    background-color:#ffffff;
+    margin:10px;
+    padding:2px;
+}
+.content{
+    padding:20px;
+}
+.ser-img-1{
+    height:200px;
+    width:180px;
+}
+.last-page{
+    color:#ffffff;
+    padding:20px;
+    width:100vh;
+    background-color:#162415 ;
+    padding-left:50px;
+}

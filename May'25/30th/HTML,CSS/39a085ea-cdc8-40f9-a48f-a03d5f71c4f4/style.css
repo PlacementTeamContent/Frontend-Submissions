@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+*{
+    font-family: "Poppins";
+}
+.navbar{
+    background-color: #FFFFFF;
+    font-weight: bold;
+}
+.page1{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-play-school.jpeg');
+    height: 100vh;
+    background-size: cover;
+}
+
+.page1{
+    padding-left: 20px;
+}
+
+.heading1{
+    color: #020402;
+    font-weight: bold;
+}
+
+.para1{
+    font-size: 24px;
+}
+
+.bt1{
+    background-color: #32AA27;
+    height: 47px;
+    width: 180px;
+    border: 0px;
+    color: #FFFFFF;
+}
+
+.quote{
+    color: #3BAE30;
+    font-weight: bold;
+}
+
+.heading-2{
+    font-weight: bold;
+    color: #162415;
+}
+
+.para-2{
+    color: #808080;
+}
+
+.p2seg1{
+    padding: 30px;
+}
+
+.img1{
+    height: 60vh;
+    
+}
+
+.quote{
+    color: #3BAE30;
+    font-weight: bold;
+}
+
+.heading-2{
+    font-weight: bold;
+    color: #162415;
+}
+
+.para-2{
+    color: #808080;
+}
+
+.p2seg1{
+    padding: 30px;
+}
+
+.img1{
+    height: 60vh;
+    
+}
+
+.quote{
+    color: #3BAE30;
+    font-weight: bold;
+}
+
+.heading-2{
+    font-weight: bold;
+    color: #162415;
+}
+
+.para-2{
+    color: #808080;
+}
+
+.p2seg1{
+    padding: 30px;
+}
+
+.img1{
+    height: 60vh;
+    
+}
+
+.quote{
+    color: #3BAE30;
+    font-weight: bold;
+}
+
+.heading-2{
+    font-weight: bold;
+    color: #162415;
+}
+
+.para-2{
+    color: #808080;
+}
+
+.p2seg1{
+    padding: 30px;
+}
+
+.img1{
+    height: 60vh;
+    width: 80vw;
+    
+}
+
+.p2seg2{
+    padding: 30px;
+    background-color: #EEF1EF;
+}
+
+.read{
+    color: #020402;
+    border: 2px solid #020402;
+    background-color: transparent;
+    font-weight: bold;
+}
+
+.content{
+    padding: 15px;
+}
+
+.subh{
+    font-weight: bold;
+    color: #808080;
+}

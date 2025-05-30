@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.background-image {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+    background-size: cover;
+    height: 50vh;
+
+}
+
+.home-container {
+   padding:14px;
+}
+
+
+.departmeantalstore {
+    font-size: 24px;
+    padding: 9px;
+    color: black;
+    font-weight: bold;
+}
+
+.imagesizing{
+    width:220px;
+    height:200px;
+}
+
+.navback{
+    background-color:#FFFFFF;
+    color:#162415;
+}
+
+
+.container-black{
+    background-color:#162415;
+    height:200px;
+    text-align:center;
+    color:white;
+    
+}
+
+.heading-deopa{
+    padding:66px;
+}

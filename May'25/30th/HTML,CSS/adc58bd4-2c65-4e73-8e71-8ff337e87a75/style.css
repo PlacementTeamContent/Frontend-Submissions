@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.card {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-play-school.jpeg");
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.h1 {
+    color: #162415;
+    font-size: 50px;
+
+}
+
+.p {
+    font-size: 20px;
+    font-family: Poppins;
+}
+
+.btn {
+    background-color: #32AA27;
+    color: white;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.h2 {
+    font-size: 20px;
+    color: #3BAE30;
+    margin: 5px;
+}
+
+.p1 {
+    font-size: 40px;
+    color: black;
+}
+.para{
+    font-family: Poppins;
+}
+.img1{
+    height: 50vh;
+    width: 40vh;
+}
+.heading{
+    font-size: 20px;
+    margin: 5px;
+    color: #3BAE30;
+}
+.p2{
+    font-size: 40px;
+    color: #162415;
+    margin: 5px;
+}
+.img2{
+    height: 50vh;
+    width: 50vh;
+}
+.sidd{
+    font-size: 30px;
+    margin: 5px;
+}
+.p3{
+    font-size: 20px;
+    margin: 5px;
+    font-family: Poppins;
+    padding: 10px;
+}
+.button{
+    margin: 10px;
+    font-size: 30px;
+}
+.img3{
+    margin: 5px;
+    padding: 10px;
+    height: 50vh;
+    width: 40vh;
+}
+.sid{
+    font-size: 30px;
+    margin: 10px;
+}
+.kar{
+    font-size: 20px;
+    margin: 5px;
+    padding: 10px;
+}
+.par{
+    margin: 10px;
+    font-size: 30px;
+}
+.N{
+    background-color: #020402;
+    height: 40vh;
+    
+}
+.v{
+    color: #808080;
+    font-size: 50px;
+}

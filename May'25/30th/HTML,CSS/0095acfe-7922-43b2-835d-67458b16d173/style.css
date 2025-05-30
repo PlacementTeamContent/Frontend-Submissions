@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar-brand{
+    font-family: "Poppins";
+    font-weight: bold;
+}
+.navbar-toggler{
+    color: black;
+}
+.nav-link1{
+    color: #32AA27;
+    text-decoration: underline;
+}
+.main-heading{
+    font-size: 30px;
+    font-family: "Poppins";
+    font-weight: bold;
+    padding: 10px;
+    
+}
+.main-para{
+    font-family: "Poppins";
+    font-size: 12px;
+    padding: 10px;
+    color: #595959;
+    
+}
+.main-btn{
+    color: #ffffff;
+    background-color: #32AA27;
+    padding: 5px;
+    border-color: #3BAE30;
+    font-family: "Poppins";
+    font-size: 10px;
+}
+.container{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+    height: 500px;
+    background-size: cover;
+    width:auto;
+}
+.container3{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/about-departmental.jpeg");
+    height: 500px;
+    background-size: cover;
+    width:auto;
+    
+}
+.container4{
+    background-color: #EEF1EF;
+    height: 700PX;
+
+}
+.container5{
+     background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/product-departmental-1.jpeg");
+    height: 500px;
+    background-size: cover;
+    width:auto;
+    
+}
+.container6{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/product-departmental-2.jpeg");
+    height: 500px;
+    background-size: cover;
+    width:auto;
+}
+.container7{
+     background-color:black;
+    height: 700PX;
+    
+}
+.main-heading2{
+    font-size: 15px;
+    margin-top:15px;
+    font-family: "Poppins";
+    color: green;
+    
+}
+.main-heading3{
+    font-size: 30px;
+}
+.main-para2{
+    padding: 10px;
+    color: #595959;
+    color: #595959;
+}
+.main-heading4{
+    font-size: 10px;
+    color: green;
+    font-family: "Poppins";
+    
+}
+.main-para3{
+    font-family: "Poppins";
+    color: #595959;
+}
+.h1{
+    color: white;
+    font-family: "Poppins";
+    text-align: center;
+}

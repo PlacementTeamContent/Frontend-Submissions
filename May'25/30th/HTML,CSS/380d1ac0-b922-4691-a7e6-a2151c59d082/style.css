@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.nav-link {
+  text-align: center;
+}
+.bg-container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-play-school.jpeg");
+    height: 100vh;
+    
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.head{
+    font-weight: bold;
+    font-family: Poppins;
+    color: #020402;
+    
+}
+.para {
+     
+    font-family: Poppins;
+    color: #020402;
+    
+    
+}
+.button{
+    background-color: #3BAE30;
+    border-style: solid;
+    color: white;
+    font-family: Poppins;
+  
+    border-color: #3BAE30;
+    padding : 8px;
+    border-radius: 6px;
+}
+.image{
+    width: 550px;
+}
+.card-container-1 {
+    background-color: #EEF1EF;
+    padding : 10px;
+}
+.Engage{
+    color: #3BAE30;
+    font-family: Poppins;
+    font-weight: bold;
+}
+.inspire {
+     font-family: Poppins;
+    font-weight: bold;
+    
+}
+.create {
+    font-family: Poppins;
+    font-weight: bold;
+    
+}
+.child {
+    color:#808080;
+    font-family: Poppins;
+}
+.button-1 {
+    padding: 8px;
+    font-family: Poppins;
+    background-color: #EEF1EF;
+    width : 136px;
+}
+.heading {
+     color: #3BAE30;
+    font-family: Poppins;
+    font-weight: bold;
+    
+}
+.headi {
+     font-family: Poppins;
+    font-weight: bold;
+    
+}
+.navbar-brand {
+     font-family: Poppins;
+    font-weight: bold;
+    
+}
+.navbar-nav{
+    font-family: Poppins;
+    
+}
+.card-container-3 {
+    background-color: #162415;
+    display : flex;
+    flex-direction: row;
+    height : 25vh;
+    justify-content: space-around;
+}
+.headis {
+    font-family: Poppins;
+    color : white;
+}
+@media  (min-width : 768px){
+    .bg-container {
+        height : 50vh;
+        background-size: cover;
+    }
+    .card-container {
+        display : flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 10px;
+        margin: 10px;
+        
+    }
+    .card-container-2 {
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+        margin: 10px;
+        align-items: center;
+        
+    }
+    .ground {
+       
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        
+       
+    }
+    .navbar-link{
+        text-align: right;
+       
+    }
+    
+    
+}

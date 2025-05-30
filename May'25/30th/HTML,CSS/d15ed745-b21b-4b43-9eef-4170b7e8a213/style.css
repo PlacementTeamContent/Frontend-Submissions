@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.homepage{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg");
+    height: 90vh;
+}
+.homepagediv{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    padding-left:150px;
+    padding-top:300px;
+}
+.homepagedivh{
+    font-weight: bold;
+}
+.homepagedivp{
+    /* font-weight: bold; */
+    font-size: 25px;
+}
+.homepagedivbtn{
+    width:200px;
+    background-color: #32aa27;
+    color:#ffffff;
+    padding:10px;
+    border-width: 0px;
+}
+.aboutpage{
+    /* height:100vh; */
+    padding-top:50px;
+    padding-left:150px;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+}
+.aboutpagediv{
+    padding-right:20px;
+}
+.img-1{
+    height:250px;
+    width:220px;
+}
+.servicespage{
+    padding-top:50px;
+    padding-left:150px;
+    padding-right:150px;
+    background-color: #eef1ef;
+     padding-bottom: 20px;
+}
+.servicespagediv-1p{
+    color:#32aa27;
+}
+.servicespagediv-1h1{
+    font-weight: bold;
+    padding-bottom:50px;
+}
+.servicespagediv-2{
+    background-color: #ffffff;
+    display:flex;
+    flex-direction: row;
+    margin-top:20px;
+    /* margin-bottom: 20px; */
+}
+.div-2h1{
+    font-weight: bold;
+    font-size: 22px;
+}
+.div-2p{
+    color:#808080;
+}
+.div-2btn{
+    background-color: #ffffff;
+    width:150px;
+    padding:10px;
+    border-color: #000000;
+    border-radius:5px;
+}
+/* .img-2{
+    height:250px;
+    width:220px;
+} */
+.div-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left:50px;
+    padding-right: 50px;
+}
+.footer{
+    background-color: #162415;
+    color:#ffffff;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

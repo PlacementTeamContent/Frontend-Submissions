@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar-brand{
+    font-weight: bold;
+}
+
+.navbar-nav.hover{
+    color:#32AA27;
+    text-decoration: underline;
+}

@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+    background-size: cover;
+    height: 300px;
+    width: 1000px;
+
+}

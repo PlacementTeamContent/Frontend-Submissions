@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.gardening{
+    color: #162415;
+    font-size:30px;
+    font-family: "Poppins";
+    font-weight: bold;
+}
+.gardening_class{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* position: absolute; */
+}
+.gardening_class_1{
+    display: flex;
+    flex-direction: row;
+}
+.garden{
+    padding: 20px;
+}
+.home{
+    padding: 20px;
+    color: #32AA27;
+    text-decoration: underline;
+}
+.about{
+    padding: 20px;
+}
+.services{
+    padding: 20px;
+}
+.naturetext{
+    color: #162415;
+    font-size:60px;
+    font-family: "Poppins";
+    font-weight: bold;
+}
+.nature{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    padding-top: 350px;
+    padding-left: 180px;
+}
+.button{
+    background-color: #32AA27;
+    color: white;
+    height: 50px;
+    width: 170px;
+}
+.cult{
+    color: #162415;
+    font-size:50px;
+    font-family: "Poppins";
+    font-weight: bold;
+    padding-left: 30px;
+}
+.passion{
+    color: #3BAE30;
+    padding-left: 33px;
+    font-weight: bold;
+    padding-top: 50px;
+}
+.beauty{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.main_passion{
+    padding-top: 30px;
+}
+.para1{
+    padding-left: 30px;
+    font-size: 30px;
+}
+.transform{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.garden__{
+     color: #162415;
+    font-size:30px;
+    font-family: "Poppins";
+    font-weight: bold;
+    padding-top: 190px;
+}
+.expert{
+    color: #32AA27;
+    font-weight: bold;
+    padding-left: 36px;
+    padding-top: 30px;
+}
+.transform__{
+    padding-bottom:  70px;
+}
+.button2{
+    color: black;
+    font-weight: bold;
+    height: 60px;
+    width: 200px;
+    border-color: black;
+    background-color: #EEF1EF;
+}
+.hii{
+    background-color: #EEF1EF;
+}

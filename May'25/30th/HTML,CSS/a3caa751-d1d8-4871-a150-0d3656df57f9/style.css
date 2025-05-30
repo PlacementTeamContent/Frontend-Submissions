@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar1 {
+    height: 8vh;
+    width: 60vh;
+    background-color: #FFFFFF;
+}
+
+.navbar-brand {
+    color: #162415;
+    font-family: "Poppins";
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #162415;
+}
+
+.container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+    background-size: cover;
+    height: 40vh;
+    width: 60vh;
+    padding: 3px;
+
+}
+
+.para {
+    color: #162415;
+    font-family: "poppins";
+}
+
+.button1 {
+    background-color: #32AA27;
+    border-width: 0px;
+    border-radius: 2px;
+    color: #FFFFFF;
+}
+
+.card-container {
+    background-color: #FFFFFF;
+    height: 60vh;
+    width: 60vh;
+    padding: 3px;
+    margin: 23px;
+}
+
+.para1 {
+    color: #3BAE30;
+    margin-bottom: 3px;
+    font-family: "poppins";
+}
+
+.head {
+    font-size: 20px;
+    font-family: "poppins";
+    font-weight: bold;
+}
+
+.img2 {
+    height: 40vh;
+    width: 50vh;
+    padding: 20px;
+}
+
+.card2 {
+    background-color: #EEF1EF;
+    height: 120vh;
+    width: 60vh;
+    padding: 20px;
+}
+
+.button2 {
+    background-color: transparent;
+}
+
+.text {
+    color: #FFFFFF;
+    background-color: #32AA27;
+    font-size: 20px;
+    height: 5vh;
+    width: 60vh;
+    text-align: center;
+}
+
+@media screen and (min-width:992px) {
+    .navbar1 {
+        height: 100%;
+        width: 100%;
+    }
+
+    .navbar-brand {
+        height: 100%;
+        width: 100%;
+    }
+
+    .head {
+        font-size: 20px;
+    }
+
+    .container {
+        background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+        background-size: cover;
+        height: 40vh;
+        width: 100%;
+        padding-bottom: 30px;
+        text-align: start;
+        font-size: 30px;
+
+    }
+
+    .para {
+        color: #162415;
+        font-family: "poppins";
+
+        padding: 4px;
+    }
+
+    .button1 {
+        background-color: #32AA27;
+        border-width: 0px;
+        border-radius: 2px;
+        color: #FFFFFF;
+    }
+
+    .nav-link {}
+
+}

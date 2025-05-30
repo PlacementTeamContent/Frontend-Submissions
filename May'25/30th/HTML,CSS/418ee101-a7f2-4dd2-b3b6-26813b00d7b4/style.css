@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar-brand {
+    font-size: bold;
+}
+
+.store {
+    text-align: center;
+}
+
+.image {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg');
+    height: 700px;
+    width: 1000px;
+
+}
+
+.heading1 {
+    text-align: center;
+    padding: 30px;
+}
+
+.paragraph1 {
+    text-align: center;
+}
+
+.button1 {
+    text-align: center;
+    height: 50px;
+    width: 120px;
+    background-color: #32AA27;
+    text-align: center;
+    color: white;
+    align-items: center;
+    border-radius: none;
+}
+
+.heading0 {
+    color: #3EAE30;
+}
+
+.shop {
+    background-color: #EEF1EF;
+    margin-top: 20px;
+    height: 1200px;
+    margin-left: 20px;
+}
+
+.heading3 {
+    color: #3EAE30;
+    margin-left: 20px;
+}
+
+.paragraph3 {
+    margin-left: 20px;
+}
+
+.image4 {
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+}
+
+.image5 {
+    margin-top: 20px;
+    height: 300px;
+    width: 300px;
+    margin-left: 100px;
+}
+
+.end {
+    background-color: #162415;
+    height: 100px;
+}
+
+.heading10 {
+    color: #808080;
+}

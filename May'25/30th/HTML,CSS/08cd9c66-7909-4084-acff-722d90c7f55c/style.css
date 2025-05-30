@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar-brand {
+    color: #0202402;
+    font-weight: bold;
+    font-family: "Poppins";
+}
+
+
+.nav-link {
+    color: #0202402;
+    font-family: "Poppins";
+}
+
+/* body{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    background-size:cover;
+    height:100vh;
+    overflow:auto;
+} */
+.container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    background-size: cover;
+    height: 100vh;
+    overflow: auto;
+}
+
+.bg-content {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    color: #0202402;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Poppins";
+}
+
+.para {
+    color: #0202402;
+    font-size: 30px;
+    font-family: "Poppins";
+}
+
+.btn {
+    font-size: 20px;
+    font-family: "Poppins";
+}
+
+.container2 {
+    display: flex;
+    width: 100vw;
+    padding: 20px;
+    align-items: center;
+}
+
+.content2 {
+    width: 60%;
+}
+
+.imag2 {
+    height: 40vh;
+    width: 40vw;
+}
+
+.para2 {
+    color: #32AA27;
+    font-size: 30px;
+    font-family: "Poppins";
+}
+
+.heading2 {
+    color: #0202402;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Poppins";
+    margin: 5px;
+}
+
+.para2 {
+    color: #0202402;
+    font-size: 30px;
+    font-family: "Poppins";
+    margin: 5px;
+}
+
+.img3 {
+    width: 80vw;
+    padding: 10px;
+}
+
+.heading3 {
+    color: #0202402;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Poppins";
+    margin: 5px;
+}
+
+.para3 {
+    color: #808080;
+    font-size: 25px;
+    font-family: "Poppins";
+    margin: 5px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+}
+
+@media screen and (max-width:768px) {
+    .container2 {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .content2 {
+        width: 90%;
+        padding: 10px;
+    }
+
+    .para2 {
+        font-size: 15px;
+    }
+
+    .heading2 {
+        font-size: 30px;
+    }
+
+    .para2 {
+        font-size: 25px;
+    }
+
+    .imag2 {
+        height: 40vh;
+        width: 70vw;
+    }
+}

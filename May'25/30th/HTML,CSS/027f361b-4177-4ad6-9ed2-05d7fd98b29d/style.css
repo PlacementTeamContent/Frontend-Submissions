@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+header {
+    height: 100px;
+    width: 40px;
+}
+
+.head {
+    text-align: center;
+}
+
+.your {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazomaws.com/placement-happenings/webcoding-mp4videos-april28/landind-page-departmental.jpeg');
+    height: 200px;
+    width: 150px;
+    text-align: center;
+}
+
+.head1 {
+    font-weight: bold;
+    font-family: "Poppins";
+    color: #020402;
+}
+
+.para1 {
+    font-family: "Poppins";
+    color: #020402;
+}
+
+.button1 {
+    background-color: #3BAE30;
+    height: 30px;
+    width: 50px;
+    padding: 50px;
+}
+
+.para2 {
+    color: #32AA27;
+}
+
+.head2 {
+    font-weight: bold;
+    font-family: "Poppins";
+
+}
+
+.department {
+    height: 200px;
+    width: 500px;
+}
+
+.img1 {
+    height: 100px;
+    width: 80px;
+}
+
+.foot {
+    background-color: #162415;
+    text-align: center;
+}

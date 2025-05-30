@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.floatingimage {
+    background-size: cover;
+    height: 40vh;
+    width: 100vw;
+    margin-right: 150px;
+
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg');
+}
+
+.navbar {
+    position: fixed;
+}
+
+.navgre {
+    color: green;
+    text-decoration: underline;
+}
+
+.nvgre {
+    color: green;
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #32AA27;
+}
+
+.button1 {
+    background-color: #32AA27;
+    color: white;
+    padding: 10px;
+    font-family: Poppins;
+    width: 150px;
+
+}
+
+.head1 {
+    font-size: 26px;
+    font-family: bold;
+}
+
+.matter {
+    margin-left: 150px;
+
+}
+
+.img2 {
+    height: 400px;
+    margin-left: 250px;
+    width: 300px;
+    padding: 20px;
+}
+
+.matterrow {
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+    margin-top: 60px;
+}
+
+.imgg2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+}
+
+.middlemTTER {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.para1 {
+    color: #32AA27;
+}
+
+.head1 {
+    font-family: bold;
+}
+
+
+
+
+
+.second_one {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+}
+
+.btn11 {
+    outline-color: black;
+    background-color: transparent;
+}
+
+.img33 {
+    height: 300px;
+}

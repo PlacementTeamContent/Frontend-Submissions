@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+body{
+    margin: 0px;
+}
+.navbar{
+    background-color: #FFFFFF;
+    font-family:Poppins;
+}
+.navbar-nav{
+    text-align:right;
+}
+.Homepage{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    height:100vh;
+    background-size:cover;
+}
+.Homepage-heading{
+    text-align: center;
+    
+}
+.Homepage-paragraph{
+    text-align: center;
+}
+.Homepage-button{
+    text-align: center;
+    background-color:#32AA27;
+    margin:0px;
+    border-width:0px;
+    color:#ffffff;
+}
+.Homepage-buttons{
+   text-align: center; 
+}
+.About-page{
+    margin:20px;
+}
+.About-page-head1{
+    color:#3BAE30;
+    font-size: 15px;
+}
+.image1{
+    height:350px;
+    width:300px;
+}
+.Products-page{
+    background-color:#EEF1EF;
+    width:100vw;
+}
+.Products-page-head1{
+    color:#3BAE30;
+    font-size:20px;
+}
+.Products-page-image{
+    height:500px;
+    width:600px;
+}

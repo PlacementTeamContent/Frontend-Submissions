@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navie{
+    color:#020402;
+    font-family: "Monoto";
+    font-size: 30px;
+}
+.paragra{
+    color:black;
+    font-size: 18px;
+    font-style:italic;
+    font-family: "Poppins";
+}
+.img-1{
+background-size: cover;
+height: 500px;
+width: 480px;
+}
+.img-2{
+background-size: cover;
+height: 200px;
+width: 280px;
+}
+.button1{
+    background-color: #32AA27;
+    color:#EEF1EF;
+}
+.para{
+    color:green;
+    font-family: "Poppins";
+    
+}
+.para3{
+    color:black;
+    font-family: "Poppins";
+    font-size: 20px;
+    
+}
+.para1{
+    color:black;
+    font-family: "Poppins";
+    
+}
+.FOOTER{
+    background-color: #162415;
+}
+.para2{
+    color:#595959;
+    font-size: 12px;
+    font-family: "Poppins";
+}
+.PQR{
+    COLOR:WHITE;
+    font-size: 20PX;
+    font-family: "Poppins";
+}
+.PQRS{
+    COLOR:WHITE;
+    text-decoration: underline;
+    font-family: "Poppins";
+}

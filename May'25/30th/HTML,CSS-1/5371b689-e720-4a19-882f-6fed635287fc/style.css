@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar-brand {
+    font-family: roboto;
+    width: 30px;
+}
+
+.image_1 {
+    height: 200px;
+    width: 200px;
+
+}
+
+.heading {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+    font-family: roboto;
+
+
+}
+
+.lok {
+    color: white;
+}
+
+.bg-container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/about-gardening.jpeg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    margin-bottom: 20px;
+
+}
+
+.container {
+    margin: 20px;
+    background-color: #EEF1EF;
+}
+
+.button-1 {
+    background-color: #32AA27;
+    color: #ffffff;
+
+}
+
+.footer {
+    background-color: #162415;
+}
+
+.main-container {
+    margin: 20px;
+}

@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar {
+    background-color: #FFFFFF;
+}
+
+.navbar-brand {
+    font-family: Poppins;
+    color: #020402;
+    font-weight: bold;
+}
+
+.navbar-toggler {
+    color: black;
+}
+
+.nav-link {
+    color: #020402;
+}
+
+.start {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg");
+    background-size: cover;
+    height: 100vh;
+    /* width:100%; */
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    padding: 20px;
+    font-family: Poppins;
+}
+
+.smile {
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #32AA27;
+    color: #FFFFFF;
+}
+
+.service {
+    padding: 20px;
+    font-family: Poppins;
+    /* background-color: #EEF1EF; */
+
+}
+
+.p1 {
+    color: #3BAE30;
+    font-size: 15px;
+    margin: 0;
+}
+
+.h4 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.p2 {
+    color: #808080;
+}
+
+.img {
+    width: 100%;
+    height: 100vh;
+}
+
+.services {
+    background-color: #EEF1EF;
+    font-family: Poppins;
+    padding: 20px;
+}
+
+.div {
+    padding: 15px;
+}
+
+.img1 {
+    height: 80vh;
+    width: 100%;
+}
+
+.p3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card {
+    padding: 10px;
+    margin: 10px;
+    font-family: Poppins;
+}
+
+.para {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.content {
+    padding-left: 5px;
+    margin-top: 0;
+    color: #595959;
+}
+
+.btnread {
+    background-color: transparent;
+}
+
+.footer {
+    font-family: Poppins;
+    background-color: #162415;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 15px;
+}
+
+@media (min-width:992px) {
+    .smile {
+        font-size: 60px;
+    }
+
+    .intro {
+        padding-left: 80px;
+    }
+
+    .service {
+        display: flex;
+    }
+
+    .img {
+        height: 600px;
+        width: 500px;
+    }
+
+    .box {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 10px;
+    }
+
+    .p3 {
+        font-size: 30px;
+    }
+
+    .foot {
+        display: flex;
+        justify-content: center;
+    }
+
+    .foot1 {
+        padding: 10px;
+    }
+
+    .foot2 {
+        padding: 10px;
+    }
+
+
+
+
+
+}

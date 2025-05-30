@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.bg-container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    height: 500px;
+    text-align: center;
+}
+
+.heading1 {
+    text-align: center;
+}
+
+.paragraph {
+    text-align: center;
+}
+
+.button1 {
+    text-align: center;
+    background-color: #3BAE30;
+    color: #EEF1EF;
+    border: green;
+}
+
+.para1 {
+    color: #3BAE30;
+}
+
+.para3 {
+    color: #3BAE30;
+}

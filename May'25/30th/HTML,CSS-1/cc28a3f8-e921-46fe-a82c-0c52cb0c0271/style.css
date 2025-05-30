@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.bg-container {}
+
+.text-1 {}
+
+.para-1 {}
+
+.btn-1 {
+    size: 20px;
+}
+
+.heading {
+    font-family: Poppins;
+    height: 10px;
+    width: 10px;
+}
+
+.bg-2 {
+    height: 1000px;
+    width: 1000px;
+}
+
+.heading-2 {
+    color: #32AA27;
+
+}
+
+.heading-3 {
+    color: black;
+}
+
+.para-2 {
+    color: black;
+}
+
+.heading-4 {
+    color: #32AA27;
+}
+
+.heading-5 {
+    color: black;
+}

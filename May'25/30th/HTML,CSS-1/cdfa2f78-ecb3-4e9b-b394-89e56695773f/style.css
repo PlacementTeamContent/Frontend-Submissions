@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.head {
+    color: #020402;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.para {
+    color: #32AA27;
+    font-family: Poppins;
+}
+
+.second {
+    padding: 20px;
+    margin: 5px;
+}
+
+.third {
+    padding: 25px;
+    margin: 15px;
+}

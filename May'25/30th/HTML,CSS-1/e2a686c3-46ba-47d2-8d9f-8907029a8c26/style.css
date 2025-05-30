@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+body{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-play-school.jpeg');
+    background-size: cover ;
+    height: 100vh;
+}
+.navbar{
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #FFFFFF;
+}
+.navbar-brand{
+    font-weight: bold;
+    display: flex;
+    
+}
+.navbar-toggler{
+    display: flex;
+    
+}
+#frist-page{
+    
+    padding-top: 70px;
+    padding-bottom: 200px;
+    padding: 30px;
+    height: 50vh;
+    width: 100vw;
+    
+}
+.main-heading{
+    font-family: Poppins;
+    font-weight: bold;
+    color:#020402;
+    
+}
+.mian-para{
+    font-family: "Poppins";
+    color:#020402;
+    
+}
+.view-services{
+    background-color: #32AA27;
+    border-radius: 0px;
+    width:140px;
+    height: 80px;
+    color:#FFFFFF;
+    border-width: 0px;
+    font-family: "Poppins";
+}
+#second-page{
+    background-color: #FFFFFF;
+    padding-top: 20px;
+}
+.snd-heading{
+    color:#32AA27;
+    font-weight: bold;
+    font-family: "Poppins";
+    padding-left: 30px;
+}
+.qw{
+    font-weight: bold;
+    color:#020402;
+    font-family: "Poppins";
+    padding-left: 30px;
+}
+.snd-para{
+    font-size:20px;
+    font-family: "Poppins";
+    padding-left: 30px;
+}
+.img-1{
+    height: 500px;
+    width: 500px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-self: center;
+}
+
+#thrd-page{
+    background-color: #EEF1EF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.thr-heading{
+    font-weight: bold;
+    color:#020402;
+    font-family: "Poppins";
+    padding-left: 30px;
+}
+.thr-para{
+    
+    color:#020402;
+    font-family: "Poppins";
+    padding-left: 30px;
+}
+.read-more{
+    margin-left: 30px;
+    padding: 10px;
+    font-weight: bold;
+    color:#020402;
+    font-family: "Poppins";
+}
+footer{
+    background-color: #162415 ;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.text{
+    color:#FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 50px;
+}

@@ -1,0 +1,69 @@
+.navbar {
+    background-color: #FFFFFF;
+}
+
+.department {
+    font-weight: bold;
+}
+
+.element {
+    font-size: 10px;
+}
+
+.element:hover {
+    color: green;
+    text-decoration: underline;
+    text-decoration-color: green;
+}
+
+.container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+    background-size: cover;
+    height: 50vh;
+    width: 100vw;
+}
+
+.heading {
+    font-size: 25px;
+}
+
+.button {
+    background-color: green;
+    color: white;
+    font-size: 12px;
+}
+
+.image {
+    background-size: cover;
+    width: 50vw;
+    height: 45vh;
+}
+
+.d-flex {
+    background-color: #FFFFFF;
+}
+
+.pa {
+    color: green;
+}
+
+.down {
+    background-color: #EEF1EF;
+    height: 100vh;
+}
+
+.head {
+    font-size: 25px;
+}
+
+.footer {
+    background-color: black;
+    height: 15vh;
+}
+
+.foo {
+    color: white;
+    text-align: center;
+    margin: 10px;
+    font-size: 15px
+}

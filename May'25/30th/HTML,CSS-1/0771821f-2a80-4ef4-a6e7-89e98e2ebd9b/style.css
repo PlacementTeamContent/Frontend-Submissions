@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+* {
+    font-family: "Poppins";
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.nav-link1 {
+    color: #32AA27;
+    text-decoration: underline;
+}
+
+.card {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg');
+    height: 750px;
+    padding-left: 200px;
+    padding-top: 400px;
+    font-weight: bold;
+}
+
+.view {
+    background-color: #3BAE30;
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 70px;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    padding: 100px;
+}
+
+.products {
+    height: 330px;
+    width: 300px;
+}
+
+.about {
+    color: #32AA27;
+}
+
+.page {
+    background-color: #EEF1EF;
+}
+
+img {
+    height: 330px;
+    width: 300px;
+}
+
+.card2 {
+    padding: 40px;
+}
+
+button {
+    background-color: transparent;
+    height: 50px;
+    width: 150px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #020402;
+    color: #FFFFFF;
+    padding: 100px;
+    text-align: center;
+
+}

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.bg-image {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-play-school.jpeg');
+    background-size: cover;
+    height: 500px;
+    padding: 20%;
+}
+
+.navbar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.button {
+    background-color: #32AA27;
+    color: #FFFFFF;
+    border-width: 0px;
+    padding: 10px;
+}
+
+.img {
+    width: 400px;
+    height: 400px;
+}
+
+.container {
+    background-color: #EEF1EF;
+    padding: 20px;
+}
+
+.btn {
+    border-width: 2px;
+    border-color: #020402;
+    border-radius: 0px;
+}
+
+.footer {
+    background-color: #162415;
+    color: #FFFFFF;
+    height: 200px;
+}
+
+.para {
+    color: #32AA27;
+    font-weight: bold;
+}
+
+p {
+    color: #808080;
+    font-size: 300;
+}

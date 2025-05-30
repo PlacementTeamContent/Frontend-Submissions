@@ -1,0 +1,78 @@
+.navbar-brand {
+    color: black;
+    font-weight: bold;
+    background-color: white;
+}
+
+.card {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-play-school.jpeg');
+    background-size: cover;
+    height: 350px;
+}
+
+.p-1 {
+    text-align: center;
+    margin: 60px;
+}
+
+button {
+    color: white;
+    background-color: #32aa27;
+    border-color: #32aa27;
+    font-weight: bold;
+    height: 40px;
+
+}
+
+.image {
+    height: 340px;
+}
+
+.image1 {
+    height: 300px;
+    margin: 20px;
+}
+
+.card1 {
+    height: 150vh;
+    background-color: #EEF1EF;
+
+}
+
+.btn {
+    background-color: #EEF1EF;
+    border-color: black;
+    color: black;
+    font-weight: bold;
+}
+
+.p {
+    margin: 20px;
+}
+
+.end {
+    height: 200px;
+    background-color: #162415;
+    color: white;
+    text-align: center;
+
+}
+
+.pp {
+    color: #3BAE30;
+}
+
+.e {
+    text-align: center;
+    margin: 30px;
+    padding: 45px;
+
+}
+
+.hh {
+    color: #595959;
+}
+
+.p0 {
+    text-decoration: underline;
+}

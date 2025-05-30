@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar-brand{
+    font-family: "roboto";
+    font-size: 20px;
+    background-color:#FFFFFF ;
+}
+.navbar-nav{
+    display: flex;
+    flex-direction:row;
+    text-align: center;
+    align-items: right;
+}
+.nurture_garden{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+    height: 100vh;
+    width:100vh;
+    
+}
+.nurture_garden_heading{
+    padding-top: 150px;
+    padding-left: 200px;
+    font-family: "roboto";
+}
+.nurture_garden_para{
+    padding-left: 200px;
+}
+.nurture_garden_button{
+    margin-left:200px;
+    width: 200px;
+    background-color: #3BAE30;
+    color:white;
+
+}
+.second_page{
+    height: 100vh;
+    width:100vh;
+    background-color: white;
+}
+.second_page_para1{
+    padding-top:200px;
+    padding-left:200px;
+    color:#32AA27;
+    font-size: 25px;
+}
+.second_page_head{
+    padding-left:200px;
+}
+.second_page_para2{
+    padding-left:200px ;
+}
+.transfrom{
+    background-color: #EEF1EF;
+    height: 100vh;
+    width:100vh;
+    
+}
+.transfrom_para{
+    color:green;
+    font-family: "roboto";
+    padding-top:80px;
+    padding-left:200px;
+}
+.transfrom_head{
+    font-family: "roboto";
+    font-size: 30px;
+    padding-left:200px;
+    
+}
+.carding{
+    height: 300px;
+    padding-left: 200px;
+}
+.Transfrom_2_head{
+    padding-left:200px;  
+    font-size: 20px;
+    padding-top:10px;
+    
+  
+}
+.Transfrom_2_para{
+    padding-left:200px;  
+    font-size: 20px;
+    
+    
+}
+.Transfrom_2_button{
+     margin-left:200px;  
+    font-size: 20px;
+    
+}

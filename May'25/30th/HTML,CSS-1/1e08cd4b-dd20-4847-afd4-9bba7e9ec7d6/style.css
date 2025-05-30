@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar-brand {
+    font-family: Poppins;
+}
+
+.service-section-p1 {
+    font-family: Poppins;
+}
+
+.welcome {
+
+    color: #32AA27;
+}
+
+.Explore {
+    font-family: Poppins;
+    background-color: #EEF1EF;
+}
+
+.t1 {
+
+    color: #32AA27;
+}
+
+.bold-1 {
+    font-size: bold;
+}
+
+.info1 {
+    margin: 20px;
+}

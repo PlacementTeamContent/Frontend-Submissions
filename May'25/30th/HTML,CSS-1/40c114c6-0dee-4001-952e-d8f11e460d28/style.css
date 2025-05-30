@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar-brand {
+    font-family: "Poppins";
+    font-weight: bold;
+    padding: 10px;
+}
+
+.navvy {
+    width: 100%;
+}
+
+.coverpagewally {
+    height: 100px;
+    width: 4px;
+}
+
+.h1 {
+    font-family: "Poppins";
+    font-weight: bold;
+}
+
+.p {
+    font-family: "Poppins";
+}
+
+.writtenstuff {
+    padding: 66px;
+}
+
+.h2 {
+    font-family: "Poppins";
+    color: #3BAE30;
+}
+
+.h22 {
+    font-family: "Poppins";
+    font-weight: bold;
+}
+
+.p2 {
+    font-family: "Poppins";
+}
+
+.coverpage2 {
+    background-color: white;
+    background-size: cover;
+    height: 1px;
+    width: 100%;
+    margin: 0px;
+    padding: 50px;
+}

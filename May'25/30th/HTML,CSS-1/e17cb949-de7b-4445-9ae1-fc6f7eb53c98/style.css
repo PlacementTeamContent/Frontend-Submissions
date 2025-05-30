@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.header{
+    font-weight: bold;
+}
+.paragraph{
+    font-size: 30px;
+}
+
+
+.button1{
+   color: white;
+   border-style: none;
+   background-color:  #32AA27;
+    border-width: 3px ;
+    width: 185px;
+    height: 70px; margin-left: 25px;
+     font-weight: bold;
+}
+
+
+.conatiner{
+    height: 1000vh;
+}
+
+.conatiner1{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+    background-size: cover;
+    height: 600px;
+}
+.head1{
+    color: #32AA27;
+    font-family: "Roboto";
+    font-size: 30px;
+    margin-top: 5px;
+    margin-left: 25px;
+}
+.head2{
+   
+    font-family: "Roboto";
+  
+    margin-top: 10px;
+    margin-left: 25px;
+    width: 400px;
+    font-weight: bold;
+}
+.para1{
+      margin-left: 25px; font-size: 25px; margin-top: 10px;
+}
+.conatiner2{
+     background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/about-gardening.jpeg");
+    background-size: cover;
+    height: 600px;
+}
+.conatiner3{
+    height: 900px;
+    background-color: #EEF1EF;
+}
+.head3{
+     color: #32AA27;font-family: "Roboto";
+    font-size: 25px; padding-top: 30px; margin-left: 25px;
+}
+.head4{
+    font-weight: bold; margin-left: 25px;font-family: "Roboto";
+}
+.image1{
+    height: 500px;
+    width: 90%; margin-left:30px; padding-top: 30px;
+    
+}
+.head5{
+    
+  font-size: 30px;
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 400px;
+    font-weight: bold;
+}
+.para2{font-family: "Roboto";
+    font-size: 30px; margin-left:30px;
+}
+.button{
+    border-style:solid ;
+    border-color: black;
+    border-width: 3px ;
+    width: 185px;
+    height: 70px; margin-left: 25px;
+     font-weight: bold;
+}
+.conatiner4{
+    background-color: #32AA27;
+    height: 220px;
+}
+
+.car1{
+    color: white;
+    margin-top:30px ;
+    font-size: 25px;
+    padding-left: 50px;
+}
+.car2{
+    color: white;    margin-top:30px ;
+    font-size: 25px;
+    padding-left: 150px;
+}
+.para4{
+      color: white;
+    margin-top:60px ;
+    font-size: 25px;
+    padding-left: 50px;font-family: "Roboto";
+    text-decoration: underline;
+}

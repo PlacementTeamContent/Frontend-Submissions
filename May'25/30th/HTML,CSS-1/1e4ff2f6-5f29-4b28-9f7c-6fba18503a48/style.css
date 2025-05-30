@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+#DentalHeading {
+    color: #020402;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.main-section {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg');
+    height: 100vh;
+}
+
+#nav-link-1 {
+    color: #32AA27;
+}
+
+.mid-main {
+    display: flex;
+    flex-direction: column;
+    font-family: Poppins;
+    padding-top: 300px;
+    padding-left: 120px;
+}
+
+.view-services-btn {
+    background-color: #32AA27;
+    font-family: Poppins;
+    color: #FFFFFF;
+    border-width: 0px;
+    height: 45px;
+    width: 150px;
+}
+
+.mid-section {
+    font-family: Poppins;
+    background-color: #FFFFFF;
+}
+
+.mid-head {
+    color: #3BAE30;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.h3-expert {
+    color: #020402;
+    font-size: 23px;
+
+}
+
+.align-mid-section {
+    margin: 25px;
+    padding: 35px;
+}
+
+.fix-img {
+    height: 100vh;
+    width: 75vh;
+}
+
+.service-page {
+    background-color: #EEF1EF;
+}
+
+.service-in {
+    padding: 45px;
+}
+
+.boxes {
+    background-color: #FFFFFF;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 440px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.min-size-img {
+    height: 300px;
+    width: 400px;
+}
+
+.Read-btn {
+    background-color: #FFFFFF;
+    color: #020402;
+    width: 120px;
+    height: 55px;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #162415;
+    color: #FFFFFF;
+}
+
+.p-1 {
+    text-align: center;
+    font-family: Poppins;
+    font-weight: bold;
+    padding: 15px;
+}

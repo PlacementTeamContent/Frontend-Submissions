@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.container-m{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg");
+    height: 300px;
+    width:500px;
+    background-size: cover;
+    
+}
+h1{
+    padding: 30px 80px;
+    font-family: Poppins;
+    font-weight: bold;
+}
+p{
+    font-family:Poppins;
+    padding: 30px 30px;
+}
+button{
+    background:#32AA27;
+    border-radius: 10px;
+    align-items: center;
+    padding:5px 3px;
+    color:white;
+    
+}
+.container-1{
+    background-color: white;
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/about-dental.jpeg");
+    height: 250px;
+    width:250px;
+    background-size: cover;
+}
+
+.container-2{
+    background-color:#808080;
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/service-dental-1.jpeg");
+    height: 150px;
+    width:150px;
+    background-size:cover;
+}

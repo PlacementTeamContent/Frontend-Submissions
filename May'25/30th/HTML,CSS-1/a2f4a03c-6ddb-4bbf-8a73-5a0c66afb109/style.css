@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+/*Mobile First*/
+
+.navbar-section {
+    background-color: #FFFFFF;
+}
+
+.navbar-heading {
+    font-size: 20px;
+    padding: 20px;
+}
+
+.main-navbar {}
+
+.header-section {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+    background-size: cover;
+}
+
+.header-section-heading {
+    color: #162415;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.header-section-para {
+    color: #162415;
+    font-weight: 500;
+}
+
+.header-section-button {
+    border-color: #3BAE30;
+    background-color: #32AA27;
+    border-width: 0px;
+    color: #FFFFFF;
+}
+
+.discover-quality-top-para {
+    color: #32AA27;
+    font-weight: 500;
+}
+
+.discover-quality-heading {
+    color: #162415;
+    font-size: 24px;
+}
+
+.discover-quality-para {
+    color: #808080;
+}
+
+.discover-quality-image-div {
+    text-align: center;
+}
+
+.discover-quality-image {
+    height: 290px;
+}
+
+.shop-smart-section {
+    background-color: #EEF1EF;
+}
+
+.shop-smart-top-para {
+    color: #32AA27;
+    font-weight: 500;
+}
+
+.shop-smart-top-heading {
+    color: #162415;
+    font-size: 24px;
+}
+
+.shop-smart-box-image {
+    height: 290px;
+}
+
+.shop-smart-box-heading {
+    font-size: 24px;
+}
+
+.shop-smart-box-para {
+    color: #808080;
+}
+
+.shop-smart-box-button {}
+
+.last-section {
+    background-color: #162415;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 18px;
+}
+
+.last-section-heading {}
+
+.last-section-para {
+    text-decoration: underline;
+}
+
+.last-section-para-b12 {}
+
+/*Desktop View*/
+@media screen and (min-width: 768px) {}

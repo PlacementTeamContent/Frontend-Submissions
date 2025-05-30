@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.fixed {
+    position: fixed;
+    display: flex;
+    width: 100vw;
+}
+
+.bg1 {
+    background-image: url(https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg);
+    background-size: cover;
+    width: 90vw;
+    height: 400px;
+
+}
+
+.head1 {
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+}
+
+.para1 {
+    font-size: 14px;
+    color: black;
+}
+
+.btn1 {
+    color: white;
+    background-color: #32AA27;
+    border-width: 0px;
+    font-size: 10px;
+    padding: 10px;
+}
+
+.img1 {
+    width: 250px;
+}
+
+.footer {
+    background-color: black;
+}
+
+.foohead {
+    font-family: Poppins;
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.foopara1 {
+    font-family: Poppins;
+    font-size: 10px;
+    color: white;
+    text-align: center;
+}
+
+.foopara2 {
+    font-family: Poppins;
+    font-size: 10px;
+    color: #EEF1EF;
+    text-align: center;
+}
+
+.parasec2 {
+    color: #3BAE30;
+    font-family: Poppins;
+    font-size: 15px;
+}
+
+.headsec2 {
+    color: black;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.smparasec2 {
+    font-family: Poppins;
+    font-size: 15px;
+    color: #808080;
+}
+
+.bgsec3 {
+    background-color: #EEF1EF;
+    padding: 13px;
+    margin-top: 30px;
+}
+
+.parasec3 {
+    color: #3BAE30;
+    font-family: Poppins;
+    font-size: 15px;
+}
+
+.headsec3 {
+    color: black;
+    font-size: 15px;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.bgsecp1 {
+    background-color: white;
+    margin: 15px;
+    padding: 10px;
+}
+
+.headp1 {
+    color: black;
+    font-size: 15px;
+    font-family: Poppins;
+}
+
+.parap1 {
+    color: #808080;
+    font-family: Poppins;
+    font-size: 15px;
+}
+
+.btnp1 {
+    border: solid black;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 3px;
+    font-family: Poppins;
+    padding: 10px;
+    background-color: white;
+
+}

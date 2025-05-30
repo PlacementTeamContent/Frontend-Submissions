@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar-logo{
+    font-weight:bold;
+    font-family:Poppins;
+}
+.maincontainer{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+    height:100vh;
+    background-size:cover;
+}
+.your-heading{
+    font-size:34px;
+    color:#020402;
+    font-weight:bold;
+}
+.your-para{
+    font-size:18px;
+    color:#020402;
+    font-weight:500;
+}
+.view-button{
+    border-width:0;
+    height:45px;
+    width:180px;
+    border-radius:3px;
+    background-color:#3BAE30;
+    color:#ffffff;
+}
+.sub-container{
+    padding:15px;
+}
+.discover-container{
+    background-color:#ffffff;
+}
+.discover-heading{
+    color:#32AA27;
+    font-size:20px;
+    font-weight:bold;
+}
+.image2{
+    height:200px;
+    width:200px;
+}
+.shop-smart{
+    background-color:#EEF1EF;
+}
+.footer{
+    background-color:#162415;
+    height:50px;
+}
+.footer-heading{
+    color:#ffffff;
+    font-size:24px;
+    font-weight:bold;
+    text-align:center;
+    margin-top:30px;
+}

@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: arial; 
+    
+}
+
+.section1 {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg');
+    height: 100vh;
+    width: 100vh;
+    background-size: cover; 
+    
+}
+
+.heading {
+    font-size: 20px;
+}
+
+.nav {
+    justify-content: center;
+    align-items: center;
+    padding: 2px; 
+    background-color:WHITE;
+}
+
+.heading2 {
+    font-size: 40px;
+    padding: 30px;
+    align-items: center;
+    flex: 1;
+
+}
+
+.para {
+    font-size: 15px;
+    flex: 1;
+}
+
+.button1 {
+    background-color: green;
+    color: white;
+    font-size: 10px;
+    padding: 10px 30px;
+    border-color: green;
+}
+
+.section2 img {
+    height: 50%;
+    max-height: 500px;
+}
+
+.para2 {
+    color: green;
+    font-size: 10px;
+}
+
+.heading2 {
+    font-size: 30px;
+    color: black;
+    align-items: center; 
+} 
+.section3 {
+    background-color:white;
+}
+.para3 {
+    color: green;
+    font-size: 10px;
+} 
+.heading3 {
+    font-size: 30px;
+} 
+.card1 img {
+    height: 50vh; 
+    max-height: 250px; 
+    
+}  
+.button2 {
+    background-color: transparent;
+}  
+.heading4 {
+    font-size: 15px;
+} 
+para143 {
+    font-size: 10px;
+}

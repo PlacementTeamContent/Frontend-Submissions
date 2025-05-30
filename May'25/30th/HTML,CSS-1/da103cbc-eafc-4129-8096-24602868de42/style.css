@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar-brand{
+    color: #020402;
+    font-weight: bold;
+    font-family: "Poppins";
+}
+.container{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+    height: 500px;
+    background-size: cover;
+}
+.container1{
+     color: #020402;
+   
+    font-family: "Poppins";
+    text-align: center;
+   padding: 92px;
+}
+.btn{
+    background-color: #32AA27;
+    font-weight: bold;
+}
+.head{
+    font-weight: bold;
+}
+.container3{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/about-gardening.jpeg");
+    background-size: cover;
+    height:500px ;
+}
+.para1{
+    color: #32AA27;
+    font-weight: bold;
+}
+.head1{
+    color: #020402;
+    font-weight: bold;
+}
+.container2{
+    padding: 20px;
+}
+.container4{
+    background-color: #EEF1EF;
+    padding: 20px;
+}
+.img4{
+    height: 500px;
+    width: 500px;
+ 
+}
+.para4{
+     color: #32AA27;
+    font-weight: bold;
+}
+.head4{
+    color: #020402;
+    font-weight: bold;
+}
+.container5{
+    padding: 20px;
+    background-color: #EEF1EF;
+}
+
+
+
+
+
+.container7{
+    background-color: #EEF1EF;
+    padding: 20px;
+}
+.img4{
+    height: 500px;
+    width: 500px;
+ 
+}
+.para5{
+     color: #32AA27;
+    font-weight: bold;
+}
+.head5{
+    color: #020402;
+    font-weight: bold;
+}
+.container6{
+    padding: 20px;
+    background-color: #EEF1EF;
+}
+.container8{
+    background-color: #020402;
+    height: 300px;
+}
+.paragraph{
+    color: #EEF1EF;
+    text-align: center;
+    padding: 50px;
+}

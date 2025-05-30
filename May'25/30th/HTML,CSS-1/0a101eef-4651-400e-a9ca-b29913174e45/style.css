@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background: url('https://cdn.b12.io/client_media/OBdq5QBx/755ff09e-2b06-11f0-8af7-0242ac110002-jpg-hero_image.jpeg') center center/cover no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.section {
+    padding: 60px 20px;
+}
+
+.services .card {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+#Iqmall {
+    color: #020402;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+#Home {
+    color: #020402;
+    font-family: Poppins;
+}
+
+#About {
+    color: #020402;
+    font-family: Poppins;
+}
+
+#Products {
+    color: #020402;
+    font-family: Poppins;
+}
+
+.Welcomecard {
+    background-image: url(https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg);
+
+    background-size: cover;
+
+}
+
+.maincard {
+    height: 200vh;
+    width: 150vw;
+    font-family: Poppins;
+}
+
+.Welcomecard1 {
+    padding-top: 20px;
+    padding: 110px;
+}
+
+.welcome {
+    font-weight: bold;
+}
+
+.view {
+    background-color: #32AA27;
+    color: white;
+    border-radius: 0px;
+    border-width: 0px;
+}

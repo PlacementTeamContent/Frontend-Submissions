@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@media (max-width: 576px), (min-width: 976px){
+.Container{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.head{
+    color: #020402;
+    font-family: "Roboto";
+    margin-right: 60px;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 25px;
+}
+.para{
+    color: #020402;
+    font-family: "Roboto";
+    font-size: 25px;
+    margin-right: 90px;
+    font-weight: bold;
+}
+.btn{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    background-color: #32AA27;
+    margin-right: 100px;
+}
+.st-image{
+    height: 60vh;
+    width: 50vh;
+    margin: 20px;
+}
+.image{
+    margin: 20px;
+    height: 60vh;
+    width: 50vh;
+}
+}

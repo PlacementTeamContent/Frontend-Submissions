@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-play-school.jpeg");
+    background-size: cover;
+    height: 50vh;
+
+}
+
+.btn {
+    background-color: green;
+    font-family: "Roboto";
+}
+
+.heading2 {
+    font-size: 24px;
+    color: green;
+}
+
+.image {
+    height: 50vh;
+    width: 100vh;
+}
+
+.heading4 {
+    font-size: 24px;
+}
+
+.carding {
+    background-color: black;
+    color: white;
+}
+
+.heading5 {
+    font-size: 24px;
+}
+
+.btn1 {
+    padding: 20px;
+    margin: 20px;
+}
+
+.btn5 {
+    padding: 20px;
+    margin: 20px;
+
+}

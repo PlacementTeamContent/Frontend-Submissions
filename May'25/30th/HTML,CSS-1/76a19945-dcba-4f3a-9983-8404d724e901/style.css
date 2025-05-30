@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.nav {
+    background-color: #FFFFFF;
+    color: #162415;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: flex-start;
+    text-align: end;
+}
+
+.nav2 {
+    color: #162415;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: flex-start;
+
+}
+
+@media (max-width:992px) {
+    .nav {
+        display: flex;
+        justify-content: space-between;
+
+    }
+}
+
+.content-text {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg");
+    max-height: 70vh;
+
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+    padding: 10%;
+
+}
+
+.button {
+    background-color: #32AA27;
+    color: #EEF1EF;
+    border-radius: 10px;
+    height: 5vh;
+    width: 30vw;
+    border-color: #3BAE30;
+}
+
+.head-1 {
+    font-weight: bold;
+}
+
+@media (max-width:991px) {
+    content-text {
+        display: flex;
+        padding: 25%;
+    }
+
+    head {
+        font-size: 40px;
+    }
+}
+
+.dental-servies {
+    padding: 50px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: center;
+    align-items: flex-start;
+}
+
+.img {
+    height: 25vh;
+    border-radius: 20px;
+}
+
+@media (max-width:991px) {
+
+    denntal-servies {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+
+    }
+
+    .footer-1 {
+        background-color: #162415;
+        height: 100px;
+        color: #FFFFFF;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 50px;
+    }

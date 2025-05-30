@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+body{
+    margin: 50px;
+}
+.navbar-brand{
+    color: #020402;
+    font-weight: bold;
+    font-family: Poppins;
+}
+.navbar-nav{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+#hero{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-play-school.jpeg');
+    background-size: cover;
+}
+.hero-header{
+    color: #020402;
+    font-weight: bold;
+    font-family: Poppins;
+}
+.hero-para{
+    color: #020402;
+    font-family: Poppins;
+}
+.hero-button{
+    background-color: #3BAE30;
+    color:white;
+    font-weight: bold;
+    font-family: Poppins;
+    border: 0px;
+    height: 40px;
+    width: 175px;
+    border-radius: 5px;
+}
+.hero-section{
+    padding-left: 50px;
+    padding-bottom: 200px;
+}
+
+.service-head{
+    font-weight: bold;
+    color: #32AA27;
+    font-family: Poppins;
+    font-size: 15px;
+}
+.service-parad{
+    font-weight: bold;
+    font-family: Poppins;
+    color: #020402;
+    font-size: 25px;
+}
+.service-para{
+    color:#808080;
+}
+.service{
+    padding:  20px;
+    display: flex;
+    flex-direction: row;
+    background-color: #EEF1EF;
+}
+.service-image{
+    width: 30px;
+}
+
+#experience{
+    background-color: #EEF1EF;
+    gap: 20px;
+}
+
+.head{
+    color: #3BAE30;
+    font-weight:bold;
+    
+}
+.head-content{
+    color: #020402;
+    font-family: Poppins;
+    font-weight: bold;
+}
+.block-img{
+    height: 190px;
+    width: 170px;
+    
+}
+.block{
+    gap: 20px;
+
+}
+.block-head{
+    font-family: Poppins;
+    font-weight: bold;
+    color: #020402;
+}
+.block-button{
+    background-color: white;
+    
+    height: 50px;
+    width: 170px;
+}
+.experiences-section{
+    gap: 50px;
+}
+
+
+
+footer{
+    background-color: #162415;
+    gap: 10px;
+    text-align: center;
+    height: 130px;
+    
+}
+.footer-para{
+    padding: 30px;
+    color: white;
+    font-weight: bold;
+    gap: 1px;
+    text-align: center;
+    padding-left: 50px;
+}
+
+.service-img{
+    height: 500px;
+    width: 200px;
+}
+
+
+@media screen and (max-width:480px){
+    nav{
+        text-align: center;
+    }
+    .service{
+        display: block;
+    }
+}

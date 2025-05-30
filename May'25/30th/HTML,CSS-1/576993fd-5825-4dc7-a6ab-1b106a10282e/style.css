@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar{
+    justify-content: space-between;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.home{
+    color: #3BAE30;
+    text-decoration: underline;
+}
+.Department-store{
+    padding-left: 80px;
+
+}
+.navbar-nav{
+    justify-content: flex-end;
+    padding-left: 400px;
+}
+.nav-link{
+    color: #808080;
+    padding-left: 60px;
+}
+.header{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg');
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 400px;
+}
+.header-btn{
+    background-color: #3BAE30;
+    color: #ffffff;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 40px;
+    width: 150px;
+}
+.quality{
+    display: flex;
+    padding: 40px;
+}
+.quality-text{
+    padding: 50px;
+    /* padding-left: 20px;
+    padding-top: 20px; */
+}
+.quality-para1{
+    color: #32AA27;
+}
+.quality-img{
+    height: 500px;
+    width: 500px;
+    padding: 40px;
+}
+.service-section{
+    padding: 100px;
+    background-color: #EEF1EF;
+}
+.service-section-shop{
+    color: #32AA27;
+}
+.service-section-hp{
+    
+}
+.service-section-text1{
+    padding: 40px;
+}
+
+.shop-smart-card1{
+    display: flex;
+    padding: 60px;
+}
+.service-section-img1{
+    height: 500px;
+    width: 500px;
+}
+.service-section-text2{
+    padding: 40px;
+}
+.shop-smart-card2{
+    display: flex;
+    padding: 60px;
+}
+.service-section-img2{
+    height: 500px;
+    width: 500px;
+}    
+footer{
+    height: 10vh;
+    width: 100vw;
+    background-color: #162415;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 50px;
+}
+
+@media (max-width){
+    .quality{
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+}
+     .service-section{
+    padding: 100px;
+    background-color: #EEF1EF;
+}
+}

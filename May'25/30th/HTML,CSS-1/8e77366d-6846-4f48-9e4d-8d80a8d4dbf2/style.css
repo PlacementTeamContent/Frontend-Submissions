@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.image {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-play-school.jpeg");
+    height: 100vh;
+    width: 200vw;
+    background-size: auto;
+    padding-left: 50px;
+}
+
+.one {
+    padding: 300px;
+}
+
+button {
+    background-color: #3BAE30;
+    border-color: #3BAE30;
+    color: white;
+    font-weight: bold;
+}
+
+.sh {
+    color: #3BAE30;
+}
+
+.image2 {
+    background-color: #EEF1EF;
+    height: 200vh;
+    width: 150vw;
+    padding-top: 100px;
+}
+
+.dh {
+    color: #3BAE30;
+}
+
+.lala {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.pp {
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.pq {
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+.btn {
+    background-color: transparent;
+    border-color: black;
+    font-weight: bold;
+}
+
+.ch {
+    padding-left: 50px;
+
+}
+
+.har {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.ko {
+    background-color: transparent;
+    border-color: black;
+    font-weight: bold;
+    color: black;
+
+
+}
+
+.ba {
+    font-size: 20px;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.th {
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.ok {
+    padding-left: 50px;
+}
+
+.last {
+    background-color: black;
+    height: 40vh;
+    width: 150vw;
+}
+
+.kr {
+    color: white;
+    padding-top: 60px;
+    font-weight: bold;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.kaa {
+    color: white;
+    padding-top: 60px;
+    font-weight: bold;
+}
+
+.rap {
+    padding-left: 50px;
+}
+
+.ga {
+    padding-left: 50px;
+}
+
+.sh {
+    padding-left: 50px;
+
+}

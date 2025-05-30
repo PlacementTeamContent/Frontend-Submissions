@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.VIEW{
+    background-color: #3BAE30;
+    font-family: Poppins;
+    color: WHITE;
+    font-weight: bold;
+    border-top-left-radius: 3px;
+     border-top-right-radius: 3px;
+     border-bottom-right-radius: 3px;
+     border-bottom-left-radius: 3px;
+     font-size: 20px;
+     padding: 10px;
+
+  
+}
+.main-heading{
+    font-size: 20px;
+    padding: 10px;
+    font-family: Poppins;
+}
+.BG{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg');
+    background-size: cover;
+    height: 100vh;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-family: Poppins;
+}
+.card-2{
+    padding: 75px;
+}
+.WELCOME{
+    font-size: 15px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: #32AA27;
+}
+.para{
+    font-family: Poppins;
+}
+.card-3{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/about-iq-mall.jpeg');
+    background-size: cover;
+    height: 100vh;
+}  
+.card-4{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/product-iq-mall-1.jpeg');
+    background-size: m;
+    height: 100vh;
+    
+}

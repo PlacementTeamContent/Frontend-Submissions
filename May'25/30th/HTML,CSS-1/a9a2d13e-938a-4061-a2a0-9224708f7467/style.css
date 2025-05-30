@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar {
+    background-color: #FFFFFF;
+}
+
+.Dental {
+    background-color: "white";
+    text-align: center;
+    perspective: "relation";
+}
+
+.den {
+    height: auto;
+    display: block;
+    width: 100%;
+}
+
+.but {
+    background-color: #32AA27;
+    justify-content: center;
+}
+
+.den-content {
+    left: 50%;
+    right: 50%;
+    transform: translet(-50%, -50%);
+    perspective: "absolute";
+}
+
+.fir-head {
+    color: #3BAE30;
+    font-size: 20px;
+}
+
+.sec-head {
+    color: #020402;
+    font-size: 20px;
+}
+
+.chair {
+    width: 300%;
+    box-shadow: 0, 1, 2, 4 rgb(0, 0, 0, 0.4);
+}
+
+.second {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.dental-hosiptal {
+    background-color: #EEF1EF;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    text-align: center;
+}
+
+.head-den {
+    font-size: 5px;
+}
+
+.head1 {
+    color: #020402;
+    font-size: 19px;
+
+}
+
+.para-den {
+    color: #3BAE30;
+}
+
+.teath {
+    font-size: 10px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.Footer {
+    background-color: #162415;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fotter-lef {
+    color: white;
+}
+
+.para-te {
+    color: #595959;
+}

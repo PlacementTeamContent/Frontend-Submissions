@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.top-view {
+    background-color: white;
+}
+
+.nav-heading {
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    padding: 12px;
+}
+
+.second-top {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-play-school.jpeg");
+    background-size: cover;
+    height: 50vh;
+}
+
+.heading-1 {
+    text-align: left;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 12px;
+    font-family: Poppins;
+}
+
+.para-1 {
+    padding-left: 30px;
+    padding-top: 2px;
+}
+
+.btn-1 {
+    background-color: #32AA27;
+    color: white;
+    border: solid 1px #32AA27;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: Poppins;
+}
+
+.third-top {
+    padding-left: 30px;
+    padding-top: 12px;
+}
+
+.small-para {
+    color: #3BAE30;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.heading-2 {
+    font-weight: bold;
+    font-family: Poppins;
+    font-size: 30px;
+}
+
+.para-2 {
+    color: #808080;
+    font-family: Poppins;
+}
+
+.image-div {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/about-play-school.jpeg");
+    background-size: cover;
+    height: 50vh;
+
+}
+
+.last-second {
+    padding-top: 30px;
+}
+
+.para-3 {
+    color: #3BAE30;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.heading-3 {
+    font-weight: bold;
+    font-family: Poppins;
+}
+
+.images {
+    padding-bottom: 30px;
+}
+
+.btn-2 {
+    height: 80px;
+    width: 80px;
+}
+
+.heading-4 {
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.last-one {
+    background-color: black;
+    width: 100vw;
+    height: 25vh;
+}

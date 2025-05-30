@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.hello{
+    background-size: cover;
+    height: 10px;
+    width: 100px;
+    background-color: #808080;
+}
+.hero{
+    color: black;
+    height: 10px;
+       background-size: cover;
+}
+.bot{
+    height:80vh;
+    width: 60vh;
+    background-size: cover;
+}
+.green{
+    color:white;
+    background-color: green;
+       background-size: cover;
+}
+.k{
+    height: 200px;
+}
+
+
+.no{
+    height: 500px;
+    width: 500px;
+    border-radius: 50px;
+    
+}
+
+
+.m{
+    color: #020402;
+    
+    
+}
+.h{
+    background-color: white;
+    height: 50px;
+    
+}
+.hi{
+    
+}

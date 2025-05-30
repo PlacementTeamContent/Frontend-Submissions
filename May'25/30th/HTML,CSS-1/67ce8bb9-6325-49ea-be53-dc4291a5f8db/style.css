@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar-brand {
+    font-weight: bold;
+    font-family: "Poppins";
+}
+
+.home_id {
+    color: #32AA27;
+}
+
+.bg-container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-play-school.jpeg");
+    background-size: cover;
+    height: 65vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.head1 {
+    font-family: "Poppins";
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.btn {
+    justify-content: center;
+}
+
+.butn1 {
+    background-color: #32AA27;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 5px;
+}
+
+.para1 {
+    color: #32AA27;
+    font-family: "Poppins";
+    font-weight: bold;
+    margin: 3px;
+}
+
+.para2 {
+    font-weight: bold;
+    margin: 3px;
+    font-size: 25px;
+}
+
+.image1 {
+    height: 40vh;
+    width: 40vw;
+}
+
+.about {
+    background-color: #FFFFFF;
+    height: 50vh;
+    width: 100vh;
+    padding: 10px;
+}
+
+.about_para {
+    color: #3BAE30;
+    font-family: "Poppins";
+}
+
+.about_head {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.about_imge {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+
+.img1 {
+    height: 20vh;
+    width: 60vw;
+}
+
+.img_head {
+    font-size: 20px;
+}
+
+.imge1 {
+    padding-left: 95px;
+}

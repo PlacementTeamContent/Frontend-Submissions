@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.line1 {
+    background-color: #32AA27;
+    color: white;
+}
+
+.line2 {
+    color: #32AA27;
+}
+
+.bg {
+    background-color: #EEF1EF;
+    height: 1000px;
+}
+
+.line4 {
+    padding: 20px;
+}
+
+.bg1 {
+    background-color: black;
+    height: 100px;
+}

@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.container{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg");
+    height:50vh;
+    background-size:cover;
+    padding:10px;
+    
+}
+
+.first{
+  justify-content: center;
+}
+.smileheading{
+    color:#020402;
+    font-family: Poppins;
+}
+
+.smilepara{
+    color:#020402;
+    font-family: Poppins;
+}
+
+.smilebtn{
+    background-color:#32AA27;
+    color:#ffffff;
+    border:0px;
+    border-radius:5px;
+}
+
+.container1{
+    padding:20px;
+    margin:10px;
+}
+
+.seatpara{
+    color:#3BAE30;
+}
+
+.image{
+    height:60vh;
+    width:100%;
+}
+
+.container2{
+    background-color:#EEF1Ef;
+    height:170vh;
+    width:100%;
+}
+
+.smileimg{
+    background-color:#ffffff;
+    height:80vh;
+    padding:30px;
+    width:95%;
+    margin:20px;
+    
+}
+
+.img2{
+    height:50vh;
+    width:100%;
+}
+
+.paragra{
+    font-size:20px;
+}
+
+.btnsmile{
+    background-color:#ffffff;
+    font-weight:bold;
+    width:25%;
+    height:6vh;
+}
+
+.container3{
+    background-color:#162415;
+    height:25vh;
+    width:100%;
+    text-align: center;
+    color:#ffffff;
+    padding:30px;
+  
+}

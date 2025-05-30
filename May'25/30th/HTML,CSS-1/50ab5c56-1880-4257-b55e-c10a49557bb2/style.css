@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+nav{
+    display:flex;
+    position:fixed;
+}
+.op{
+    display:grid;
+    grid-template-columns:1,1fr;
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg") ;
+    background-size:cover;
+    height:90vh;
+    width:100vw;
+    align-content:space-between;
+}
+.ii{
+     padding-left:120px;
+}
+.bb{
+   
+    background-color: #3BAE30;
+    border:none;
+    color:white;
+    height:70px;
+    border-radius:15px;
+    width:180px;
+}
+.w{
+    background-color:white;
+    height:50vh;
+    display:flex;
+    flex-direction:row;
+   justify-content:space-around;
+   padding-top:250px;
+}
+.wa{
+   background-color: #EEF1EF;
+   padding:30px;
+   padding-left:100px;
+   overflow-y:scroll;
+}
+.bl{
+    display:flex;
+    padding:100px;
+    flex-direction:row;
+    justify-content:space-around;
+    background-color: #020402;
+    color:#808080;
+    height:30vh;
+}
+@media(max-width:577px){
+    
+}

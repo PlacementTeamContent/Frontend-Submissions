@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.a {
+    font-family: "Poppins";
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vh;
+    text-align: center;
+    font-family: "Poppins";
+    color: #020402;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+
+
+
+}
+
+.q {
+    text-align: center;
+    font-family: "Poppins";
+    color: #020402;
+    font-weight: bold;
+}
+
+.b {
+    font-family: "Poppins";
+    border-radius: 10px;
+    color: white;
+    background-color: #32AA27;
+    margin: 100px;
+
+}
+
+.c {
+    font-family: "Poppins";
+    color: #3BAE30;
+}
+
+.d {
+    font-family: "Poppins";
+    background-color: #162415;
+}
+
+.e {
+    font-family: "Poppins";
+    text-align: center;
+    color: #EEF1EF;
+}
+
+.f {
+    text-align: center;
+    color: #EEF1EF;
+    font-family: "Poppins";
+    text-decoration: underline;
+}
+
+.navbar {
+    background-color: #FFFFFF;
+
+}
+
+.navbar-brand {
+    margin-right: 10px;
+    font-family: "Poppins";
+    color: #020402;
+    font-weight: bold;
+}
+
+.w {
+    background-color: #EEF1EF;
+    margin: 10px;
+    font-family: "Poppins";
+}

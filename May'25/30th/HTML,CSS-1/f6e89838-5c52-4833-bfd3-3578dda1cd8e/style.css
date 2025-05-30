@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.head1{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    height: 30vh;
+    width: 100vw;
+}
+.headtextline{
+    color: #32AA27;
+    text-decoration: underline;
+}
+.fixedpart{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg');
+    background-size: cover;
+}
+.fixedtext{
+    color: #020402;
+    font-family: "Roboto";
+    font-size: 32px;
+}
+.fixedbutton{
+    color: #ffffff;
+    background-color: #32AA27;
+    width: 400px;
+    height: 150px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+.arrangement{
+    display: flex;
+    justify-content: space-between;
+}
+.secondfirst{
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 600;
+    color: #3BAE30;
+}
+.secondsecond{
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 700;
+    color: #200402;
+}
+.secondthird{
+    font-family: "Roboto";
+    font-size: 22px;
+    color: #808080;
+}
+.thirdfirst{
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 500;
+    color: #020402;
+}
+.thirdsecond{
+    font-family: "Roboto";
+    font-size: 22px;
+    color: #808080;
+}
+.thirdbutton{
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: 500;
+    border: 2px;
+    border-color: #020402;
+    background-color: transparent;
+}
+.footer{
+    background-color: #162415;
+}
+.footerarrangement{
+    display: flex;
+    justify-content: space-between;
+}
+.para{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 500;
+}
+.para1{
+    font-family: "Roboto";
+    font-size: 26px;
+    color: #ffffff;
+}
+.para2{
+    font-family: "Roboto";
+    font-size: 26px;
+    text-decoration: underline;
+    color: #ffffff;
+}

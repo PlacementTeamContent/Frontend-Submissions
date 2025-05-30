@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.bg-container {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg');
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading {
+    color: #020402;
+    font-family: "Poppins";
+    font-size: 30px;
+    padding-top: 50px;
+    font-weight: 900;
+}
+
+.discrip {
+    color: #020402;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+
+.button {
+    font-family: "Poppins";
+    padding: 10px;
+    font-size: 10px;
+    width: 150px;
+}
+
+.as-heading {
+    color: #3BAE30;
+    font-family: "Poppins";
+    font-size: 25px;
+    padding-top: 50px;
+    font-weight: 900;
+}
+
+.as-sideheading {
+    color: #020402;
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.as-discrip {
+    color: #808080;
+    font-size: 16px;
+}
+
+.as-img {
+    height: 100%;
+    width: 100%;
+}
+
+.service-section {
+    background-color: #EEF1EF;
+}
+
+.footer-section {
+    background-color: #162415;
+}
+
+.foo-heading {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Poppins";
+    padding: 20px;
+}
+
+.foo-p {
+    text-align: center;
+    font-size: 30px;
+    color: #595959;
+    font-family: "Poppins";
+    padding: 20px;
+    text-decoration: underline;
+}

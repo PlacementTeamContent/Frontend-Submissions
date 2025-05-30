@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body {
+    font-family: 'Poppins';
+}
+
+.navbar {
+    display: flex;
+
+    position: fixed;
+    top: 0px;
+    width: 100vw;
+}
+
+.welcome-part {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg');
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    color: white;
+    background-color: #32AA27;
+    width: 250px;
+}
+
+.shopping-part {
+    display: flex;
+
+}
+
+.shopping-para {
+    color: #32AA27;
+}
+
+.sub-shopping {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
+    width: 50%;
+}
+
+.shopping-img {
+    width: 50%;
+}
+
+.foot {
+    background-color: #162415;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.span {
+    text-decoration: underline;
+    display: none;
+}
+
+.product-head {
+    font-size: 40px;
+}
+
+.product-para {
+    font-size: 30px;
+}
+
+@media (max-width:768px) {
+    .welcome-part {
+        height: 100vh;
+    }
+
+    .shopping-part {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .navbar-nav {
+        display: none;
+    }
+
+    .sub-shopping {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .shopping-img {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .foot {
+        display: grid;
+        justify-content: start;
+    }
+
+    .span {
+        display: block;
+        color: #808080;
+    }
+}

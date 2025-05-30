@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.main-container{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg');
+    background-size: cover;
+    height: 100vh;
+    
+
+    
+}
+.dental{
+    color: #FFFFFF;
+}
+.fotter{
+    background-color: #162415;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 400px;
+    align-items: center;
+}
+.in-button{
+    color: #808080;
+}
+.in-p{
+    color: #020402;
+}
+.nav-paras{
+    display: flex;
+    flex-direction: row;
+    
+}
+.nav-p{
+    padding: 10px;
+}
+.content-on-main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    align-items: center;
+    
+    
+}
+.main-heading{
+    font-weight:  bold;
+}
+.main-button{
+    background-color: #32AA27;
+    border-width: 0px;
+    color: #FFFFFF;
+}
+.nav-h{
+    font-weight: bold;
+}
+.second-container{
+    padding: 50px;
+    border: 10px;
+}
+.img{
+    height: 500px;
+    width: 500px;
+}
+.matter-1{
+    padding: 10px;
+}
+.n-img{
+    height: 500px;
+    width: 500px;
+}
+.nd-containerr{
+    background-color: #EEF1EF;
+    padding: 70px;
+}
+.nd-in-para{
+    padding: 20px;
+}
+.in-h{
+    font-family: "Poppins";
+    color: #595959;
+}

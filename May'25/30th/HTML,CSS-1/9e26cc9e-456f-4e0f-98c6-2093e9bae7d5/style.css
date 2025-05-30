@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar-brand {
+    font-family: "poppins";
+    font-weight: bold;
+    padding-left: 40px;
+}
+
+.navbar-toggler-icon {
+    color: #ffffff;
+}
+
+.bg-img {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg');
+    width: 990px;
+    height: 700px;
+    background-size: cover;
+}
+
+.head1 {
+    font-weight: bold;
+    font-size: 30px;
+    margin: 30px;
+    padding-left: 50px;
+}
+
+.para1 {
+    font-weight: bold;
+    padding-left: 50px;
+    color: #595959;
+}
+
+.head2 {
+    font-weight: bold;
+
+}
+
+.para2 {
+    color: #3BAE30;
+    font-weight: bold;
+}
+
+.img2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: #ffffff;
+    height: 350px;
+}
+
+.background-2 {
+    background-color: #EEF1EF;
+
+}
+
+.btn2 {
+    width: 150px;
+    height: 50px;
+    color: #020402;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #162415;
+    height: 150px;
+}
+
+.h {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+}
+
+.p {
+    color: #ffffff;
+    text-align: center;
+}
+
+.service {
+    color: #32AA27;
+}
+
+@media screen and (max-width:992) {
+    .navbar-brand {
+        font-family: "poppins";
+        font-weight: bold;
+        padding-left: 40px;
+    }
+
+    .navbar-toggler-icon {
+        color: #ffffff;
+    }
+
+    .bg-img {
+        background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg');
+        width: 990px;
+        height: 700px;
+        background-size: cover;
+    }
+
+    .head1 {
+        font-weight: bold;
+        font-size: 30px;
+        margin: 30px;
+        padding-left: 50px;
+    }
+
+    .para1 {
+        font-weight: bold;
+        padding-left: 50px;
+    }
+
+    .head2 {
+        font-weight: bold;
+
+    }
+
+    .para2 {
+        color: #3BAE30;
+        font-weight: bold;
+    }
+
+    .img2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .card {
+        background-color: #ffffff;
+        height: 350px;
+        align-items: center;
+    }
+
+    .background-2 {
+        background-color: #EEF1EF;
+
+    }
+
+    .btn2 {
+        width: 150px;
+        height: 50px;
+        color: #020402;
+        font-weight: bold;
+    }
+
+    .footer {
+        background-color: #162415;
+        height: 150px;
+    }
+
+    .h {
+        color: #ffffff;
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .p {
+        color: #ffffff;
+        text-align: center;
+    }
+
+    .service {
+        color: #32AA27;
+    }
+}

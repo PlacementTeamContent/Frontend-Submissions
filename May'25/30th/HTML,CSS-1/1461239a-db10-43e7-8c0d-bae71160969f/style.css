@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.button {
+    background-color: green;
+}
+
+.backcolour {
+    background-color: #EEF1EF;
+}
+
+.backcol {
+    background-color: black;
+}
+
+.img {
+    height: 50vh;
+    width: 50vw;
+}
+
+.apple {
+    color: white;
+}

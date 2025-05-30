@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.img {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+    height: 55vh;
+    width: 526px;
+}
+
+.btn {
+    background-color: #3BAE30;
+    height: 6vh;
+    border-radius: 5px;
+}
+
+.button {
+    text-align: center;
+    padding-right: 250px;
+}
+
+.heading {
+    color: #162415;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding-right: 25px;
+}
+
+.template {
+    text-align: center;
+    padding: 20px;
+}
+
+.para {
+    text-align: center;
+    color: #162415;
+    padding-right: 100px;
+    font-weight: bold;
+    font-family: "Poppins";
+}
+
+.navbar-brand {
+    color: #162415;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding: 10px;
+}
+
+.nav-link active {
+    color: #3BAE30;
+}
+
+.plants {
+    height: 2vh;
+    color: #3BAE30;
+    padding: 12px;
+    padding-left: 20px;
+    font-family: "Poppins";
+    font-weight: bold;
+}
+
+.parl {
+    font-weight: bold;
+    padding-left: 50px;
+    font-family: "Roboto";
+    height: 10vh;
+    padding: 15px;
+}
+
+.imgh {
+    height: 55vh;
+    width: 400px;
+    margin: 55px;
+    padding-left: 55px;
+    padding-bottom: 225px;
+}
+
+.op {
+    font-family: "Poppins";
+}
+.bg{
+    background-color: #EEF1EF;
+    height: 45vh;
+    margin: 5px;
+}
+.dec{
+    color: #32AA27;
+    font-weight: bold;
+}
+.dek{
+     color: #32AA27;
+     font-weight: bold;
+}
+.imjj{
+    height: 30vh;
+    margin: 20px;
+    width: 375px;
+}

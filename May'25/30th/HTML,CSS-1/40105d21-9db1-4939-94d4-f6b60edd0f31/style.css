@@ -1,0 +1,73 @@
+.home_page {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-dental.jpeg');
+    height: 100vh;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.navbar-brand {
+    font-weight: bold;
+    margin: auto;
+}
+
+.box1 {
+    margin-right: 200px;
+}
+
+.home_head {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.home_tag {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.buttonbro {
+    background-color: #32aa27;
+    color: #FFFFFF;
+    border: none;
+}
+
+.page_2 {
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.image {
+    height: 400px;
+    width: auto;
+
+}
+
+.text {
+    color: green;
+}
+
+.page-3 {
+    background-color: #EEf1Ef;
+}
+
+.bg2 {
+    background-color: white;
+}
+
+.image2 {
+    height: 300px;
+    width: auto;
+
+}
+
+.button2 {
+    background-color:white;
+    padding-left:10px;
+    padding-right:10px;
+}

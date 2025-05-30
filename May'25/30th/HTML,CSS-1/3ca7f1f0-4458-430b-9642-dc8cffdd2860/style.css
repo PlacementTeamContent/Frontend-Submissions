@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar {
+    background-color: #FFFFFF;
+}
+
+.navbar-brand {
+    color: #020402;
+    font-weight: bold;
+}
+
+.bg {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-gardening.jpeg");
+    background-size: cover;
+    width: 587px;
+    height: 500px;
+    text-align: center;
+}
+
+.view {
+    background-color: #32AA27;
+    text-align: left;
+    color: #ffffff;
+    border-style: solid;
+    border-color: #32AA27;
+}
+
+.passion {
+    font-size: 15px;
+    color: #3BAE30;
+    margin-top: 10px;
+}
+
+.culti {
+    font-size: 12px;
+}
+
+.cultivate {
+    height: 100px;
+    width: 150px;
+    margin-top: 10px;
+    text-align: right;
+}
+
+.ash {
+    background-color: #EEF1EF;
+}
+
+.garden {
+    height: 100px;
+    width: 150px;
+    margin-top: 10px;
+}
+
+.design {
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.outdoor {
+    font-size: 10px;
+    margin-left: 5px;
+}
+
+.read {
+    font-size: 10px;
+    margin-left: 5px;
+}
+
+.footer {
+    background-color: #162415;
+}
+
+.sch {
+    font-size: 10px;
+    color: #ffffff;
+    font-family: "poppins";
+}
+
+.web {
+    text-decoration: underline;
+    font-size: 10px;
+    color: #ffffff;
+    font-family: "poppins";
+}

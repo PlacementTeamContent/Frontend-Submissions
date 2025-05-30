@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.navbar-brand {
+    font-weight: bold;
+    font-: 15px;
+}
+.container1 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    height: 600px;
+    width: 470px;
+    min-height: 100px;
+}
+.containertext {
+    text-align: center;
+    padding: 50px;
+     font-weight: bold;
+    font-size: 30px;
+    font-family: Poppins;
+   
+}
+.containerpara {
+    text-align: center;
+   
+     font-weight: bold;
+    font-size: 20px;
+}
+.containerbutton {
+    background-color: #32AA27;
+    border-radius: 10px;
+    color: #ffffff;
+    border-color: #32AA27;
+     text-align: center;
+     align-items: center;
+      margin: 10px;
+}
+.container3 {
+    background-color: #EEF1EF;
+}
+
+@media screen and (min-width: 766px){
+    .navbar {
+        display: flex;
+        width: 50px;
+        height: 100px;
+    }
+}
+.imagelink {
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}
+.buttonelemeent {
+    background-color: #162415;
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 10px;
+}
+.container3font {
+    color: #020402;
+}
+.imageslink {
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    
+}

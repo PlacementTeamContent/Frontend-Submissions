@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.navbar {
+    background-color: #ffffff;
+}
+
+.icon {
+    font-weight: bold;
+}
+
+.top-section {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.top-head {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+
+}
+
+.top-para {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.btn {
+    background-color: #32AA27;
+    color: #ffffff;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-top: 5px;
+    text-align: center;
+
+}
+
+.middle-section {
+    background-color: #ffffff;
+}
+
+.midd-para {
+    color:#3BAE30 ;
+}
+.midd-head{
+    font-size: 20px;
+    font-weight:bold;
+}
+.midd-pa{
+    font-size:10px;
+}
+.image{
+    height:300px;
+    width:250px;
+}
+.bottom-section{
+    background-color: #EEF1EF;
+    
+}
+.bottom-para {
+    color:#3BAE30 ;
+}
+.bottom-head{
+    font-size: 20px;
+    font-weight:bold;
+}
+.aishu{
+    height:180px;
+    width:180px;
+}
+.service-head{
+    font-size: 10px;
+     background-color: #EEF1EF;
+     font-weight: bold;
+}
+.service-para{
+    font-size: 10px;
+     background-color: #EEF1EF;
+}
+.button{
+    height:20px;
+    width:70px;
+     background-color: #EEF1EF;
+     font-size: 5px;
+     font-weight:bold;
+}
+.aishu1{
+    height:180px;
+    width:180px;
+     background-color: #EEF1EF;
+}
+.end{
+    color:#ffffff;
+    background-color: #162415;
+    text-align: center;
+    font-weight:bold;
+    font-size:10px;
+}
+.simmi{
+    display: flex;
+    flex-direction: column;
+    
+}
+.service-nav{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+}
+.sai{
+    display:flex;
+    flex-direction: column;
+}

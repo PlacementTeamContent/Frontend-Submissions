@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body {
+    padding: 10px;
+    margin: 10px;
+    height: 500vh;
+    width: 100vw;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.anchor {
+    text-decoration: none;
+    color: #020402;
+    margin-right: 6px;
+}
+
+nav:hover {
+    color: #32AA27;
+    text-decoration: underline;
+    text-decoration-color: #32AA27;
+}
+
+.main-sec {
+    margin: 0px;
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-iq-malll.jpeg");
+    background-size: cover;
+    height: 350px;
+}
+
+.head {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 20px;
+    padding-bottom: 0px;
+    font-size: 24px;
+}
+
+.btn {
+    background-color: #32AA27;
+    color: #ffffff;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.sec {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.img {
+    height: 400px;
+    width: 250px;
+}
+
+.p {
+    color: #32AA27;
+}
+
+.h1 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.sec1 {
+    margin: 30px;
+}
+
+.img1 {
+    height: 300px;
+    width: 500px;
+}
+
+.btn1 {
+    border-radius: 0px;
+    border-width: 3px;
+    border-color: #020402;
+    color: #020402;
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+.sec2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    background-color: #020402;
+    color: #ffffff;
+    height: 150px;
+    padding: 10px;
+}
+@media (max-width:768px){
+    .navbar{
+        justify-content: column;
+        text-align: center;
+    }
+    .main-sec{
+        justify-content: column;
+    }
+    .sec{
+        justify-content: column;
+    }
+    .sec1{
+        justify-content: column;
+    }
+    .sec2{
+        justify-content: column;
+        text-align: center;
+    }
+}

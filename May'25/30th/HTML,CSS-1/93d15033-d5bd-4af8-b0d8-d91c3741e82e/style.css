@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    line-height: 1.6;
+    font-family: 'Helvitica Neue', Helvitica, Sans-Serif, Times New Roman, Poppins;
+    background-color: #fff;
+    color: #333;
+
+}
+
+.container {}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.nav-content {
+    text-align: left;
+    align-items: left;
+}
+
+#hero {
+    position: relative;
+
+}
+
+.hero-page {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/landing-page-departmental.jpeg');
+    height: 85vh;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    left: 20px;
+    right: 80px;
+    align-items: center;
+
+}
+
+.hero-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+.button {
+    background-color: #3bAE30;
+    color: #FFFFFF;
+    height: auto;
+    width: 200px;
+    font-family: Poppins;
+    font-size: 1.7em;
+
+}
+
+.hero-heading {
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 4.5em;
+}
+
+.hero-paragraph {
+    font-size: 1.6em;
+}
+
+.hero-info {
+    left: 20px;
+}
+
+.about-img {
+    height: 500px;
+    width: 200px;
+}
+
+.footer {
+    height: 20vh;
+    background-color: #020402;
+    color: #EEF1EF;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    align-items: center;
+    font-family: Poppins;
+}
